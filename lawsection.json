@@ -1,0 +1,2145 @@
+
+[{
+    "keyword": "Murder",
+    "aliases": ["killing", "homicide", "murdered", "someone killed", "intentional killing", "person killed", "cold blooded murder"],
+    "section": "Section 302 IPC",
+    "content": "Section 302 of the Indian Penal Code provides punishment for murder. Murder is the intentional and unlawful killing of another person with clear intention or knowledge that death will be caused. It is one of the most serious crimes against human life and society.",
+    "help": "Victim's family or witnesses must file an FIR under Section 302 IPC. Police will investigate, arrest the accused, and submit charge sheet. If convicted, the criminal faces either life imprisonment (whole life) or death penalty. Bail is rarely granted in such cases."
+  },
+  {
+    "keyword": "Hello",
+    "aliases": ["hi", "hey", "greetings", "howdy", "sup", "yo"],
+    "content": "Hello! How can I assist you today? Feel free to ask me anything!"
+  },
+  {
+    "keyword": "How are you?",
+    "aliases": ["how's it going", "what's up", "how are you doing", "how are things"],
+    "content": "I'm just a program, but thanks for asking! I'm here to help with anything you need."
+  },
+  {
+    "keyword": "Goodbye",
+    "aliases": ["bye", "see you later", "take care", "goodbye now", "farewell"],
+    "content": "Goodbye! I hope I was able to assist you. Don’t hesitate to reach out if you need more help."
+  },
+  {
+    "keyword": "Thank you",
+    "aliases": ["thanks", "thanks a lot", "much appreciated", "thank you so much"],
+    "content": "You're welcome! It’s my pleasure to assist you. Let me know if you need anything else!"
+  },
+  {
+    "keyword": "What is AI?",
+    "aliases": ["what is artificial intelligence", "tell me about AI", "how does AI work", "explain AI"],
+    "content": "AI stands for Artificial Intelligence. It’s when machines are programmed to perform tasks that would normally require human intelligence, like learning, problem-solving, and understanding speech or images."
+  },
+  {
+    "keyword": "Tell me a joke",
+    "aliases": ["tell me something funny", "joke", "make me laugh", "say something funny"],
+    "content": "Sure! Why don’t skeletons fight each other? They don’t have the guts!"
+  },
+  {
+    "keyword": "What can you do?",
+    "aliases": ["what are your abilities", "what can I ask you", "what can you help with"],
+    "content": "I can help with a variety of things like answering general questions, providing information on a wide range of topics, and even telling jokes! Just ask away!"
+  },
+  {
+    "keyword": "Who created you?",
+    "aliases": ["who made you", "who is your creator", "who programmed you"],
+    "content": "I was created by a team of engineers and developers at OpenAI. They built me to assist you with all sorts of questions!"
+  },
+  {
+    "keyword": "Theft",
+    "aliases": ["stealing", "robbery", "pickpocket", "chain snatching", "mobile theft", "bike theft"],
+    "section": "Section 378 IPC (definition), Section 379 IPC (punishment)",
+    "content": "Theft means dishonestly taking any movable property out of someone's possession without consent, with the intention to permanently deprive them of it. Common examples include pickpocketing, vehicle theft, or burglary.",
+    "help": "File an FIR with police, submit proof of ownership (bills, photos). Police investigate and attempt recovery. If found guilty under Section 379 IPC, punishment is imprisonment up to 3 years, or fine, or both. In aggravated theft cases, stronger punishments apply."
+  },
+  {
+    "keyword": "Execution of decree",
+    "aliases": ["government decree", "public officer decree", "decree against government", "execution delay", "court order enforcement"],
+    "section": "Section 82 CPC",
+    "content": "Section 82 of the Code of Civil Procedure governs execution of decrees against the Government or public officers. It mandates a waiting period of three months before execution can proceed, ensuring time for compliance or appeal.",
+    "help": "If a decree is passed against the Union or State Government or a public officer, execution can begin only after 3 months. File execution petition after this period. Court will issue notice and proceed as per CPC rules."
+  },
+  
+  {
+    "keyword": "Alien's right to sue",
+    "aliases": ["foreigners suing", "alien enemies", "alien friends", "foreign nationals in court"],
+    "section": "Section 83 CPC",
+    "content": "Section 83 allows alien friends and alien enemies (with Central Government permission) to sue in Indian courts. Alien enemies without permission or residing in hostile countries cannot sue.",
+    "help": "Foreign nationals must prove residency and permission status. If eligible, they may file suits like Indian citizens. Courts verify status before admitting the case."
+  },
+  {
+    "keyword": "Foreign States suing",
+    "aliases": ["foreign state litigation", "foreign ruler rights", "international suits", "foreign government suing"],
+    "section": "Section 84 CPC",
+    "content": "Section 84 permits foreign States to sue in Indian courts, provided the suit enforces a private right of the Ruler or an officer in public capacity.",
+    "help": "Foreign States must establish the private right being enforced. Suit is filed through authorized representatives. Court checks jurisdiction and validity before proceeding."
+  },
+  {
+    "keyword": "Rape",
+    "aliases": ["sexual assault", "forced sex", "molestation leading to rape", "woman raped", "rape case"],
+    "section": "Section 375 IPC (definition), Section 376 IPC (punishment)",
+    "content": "Rape means sexual intercourse with a woman against her will, without her consent, or with consent obtained by force, threat, fraud, or when she is under 18 years of age. This law protects women from sexual violence and bodily exploitation.",
+    "help": "Victim or family should immediately register an FIR under Section 376 IPC. Medical examination and counselling will be arranged. If convicted, offender faces minimum 10 years rigorous imprisonment, extendable to life imprisonment, and fine. In gang rape or rape of minors, punishment can include death penalty."
+  },
+  {
+    "keyword": "Dowry Harassment",
+    "aliases": ["dowry demand", "bride harassment", "husband demanding money", "dowry torture","Dowry"],
+    "section": "Section 498A IPC, Dowry Prohibition Act 1961",
+    "content": "Dowry harassment occurs when a married woman is subjected to cruelty or harassment by her husband or in-laws due to demands for dowry. It includes physical and mental cruelty related to money, property, or gifts.",
+    "help": "The woman can file a complaint under Section 498A IPC and the Dowry Prohibition Act. Police can arrest the accused. Punishment includes imprisonment up to 3 years and fine. If harassment leads to death within 7 years of marriage, Section 304B IPC applies, with punishment of 7 years to life imprisonment."
+  },
+  {
+    "keyword": "Domestic Violence",
+    "aliases": ["wife beating", "spousal abuse", "intimate partner violence", "woman beaten by husband"],
+    "section": "Protection of Women from Domestic Violence Act, 2005 (PWDVA)",
+    "content": "Domestic violence includes physical, emotional, sexual, verbal, and economic abuse inflicted by a husband or relatives on a woman. The PWDVA provides immediate civil relief and rights, along with criminal remedies under IPC.",
+    "help": "Victim can approach police, protection officers, or court under PWDVA. Relief includes protection order, residence order, maintenance, custody, and compensation. Abusers can also be prosecuted under IPC provisions like Section 498A, facing imprisonment up to 3 years and fine."
+  },
+  {
+    "keyword": "Acid Attack",
+    "aliases": ["acid violence", "acid burn", "acid throwing"],
+    "section": "Section 326A IPC, Section 326B IPC",
+    "content": "Acid attack is throwing acid on a person with intent to disfigure, maim, or cause permanent injury. This crime leaves lifelong scars, disability, and trauma.",
+    "help": "Victim should get immediate medical help and file an FIR. Under Section 326A IPC, attacker faces imprisonment not less than 10 years, extendable to life, along with fine covering medical expenses. Attempt under Section 326B carries 5–7 years imprisonment."
+  },
+  {
+    "keyword": "Kidnapping",
+    "aliases": ["abduction", "child kidnapping", "kidnap for ransom"],
+    "section": "Section 363 IPC (kidnapping), Section 364A IPC (kidnap for ransom)",
+    "content": "Kidnapping means taking or enticing a minor (under 16 for males, under 18 for females) or a person of unsound mind, out of lawful guardianship without consent. Abduction for ransom is treated as a grave offence.",
+    "help": "Report immediately to police. Under Section 363 IPC, kidnapping is punishable with up to 7 years imprisonment and fine. For ransom cases under Section 364A IPC, punishment may be death penalty or life imprisonment with fine."
+  },
+  {
+    "keyword": "Cybercrime - Hacking",
+    "aliases": ["computer hacking", "unauthorized access", "cyber attack"],
+    "section": "Section 66 IT Act, Section 43 IT Act",
+    "content": "Unauthorized access to computer systems, stealing or destroying data, or disrupting networks is hacking. It compromises privacy, financial safety, and security of individuals or organizations.",
+    "help": "Victim should lodge complaint at Cyber Crime Cell. Evidence like screenshots and logs should be preserved. Punishment under IT Act can be up to 3 years imprisonment or fine up to 5 lakh. In serious breaches, higher sentences may apply."
+  },
+  {
+    "keyword": "Cheating",
+    "aliases": ["fraud", "scam", "trickery", "dishonest misrepresentation"],
+    "section": "Section 415 IPC (definition), Section 420 IPC (punishment)",
+    "content": "Cheating means deceiving someone fraudulently or dishonestly to cause them to deliver property, money, or valuable security. It includes scams, fake business promises, or fraudulent contracts.",
+    "help": "File complaint with police under Section 420 IPC. If convicted, punishment is imprisonment up to 7 years and fine. The criminal record affects future employment and civil rights."
+  },
+  {
+    "keyword": "Bribery",
+    "aliases": ["corruption", "taking bribe", "offering bribe", "illegal gratification"],
+    "section": "Prevention of Corruption Act, 1988 (Section 7, Section 13)",
+    "content": "Bribery means giving or taking illegal gratification to influence official actions. It includes both offering and accepting bribes.",
+    "help": "Report corruption to Anti-Corruption Bureau or Lokayukta. Officials caught accepting bribes face imprisonment from 3 to 7 years and fine. Public servants convicted lose their job and pension benefits."
+  },
+  {
+    "keyword": "Child Labour",
+    "aliases": ["child worker", "underage working", "illegal child employment"],
+    "section": "Child Labour (Prohibition and Regulation) Act, 1986",
+    "content": "Employment of children below 14 years in hazardous occupations is strictly prohibited. This law aims to protect children’s right to education and safe childhood.",
+    "help": "Anyone can report child labour to police or labour department. Employers face imprisonment from 6 months to 2 years and fine up to ₹50,000. Rescued children are rehabilitated and enrolled in schools."
+  },
+  {
+    "keyword": "Drunk Driving",
+    "aliases": ["drink and drive", "alcohol driving", "drunken driving"],
+    "section": "Section 185 Motor Vehicles Act, 1988",
+    "content": "Driving a vehicle while intoxicated with alcohol exceeding 30 mg/100 ml of blood, or under drugs, is an offence. It risks lives of driver and others.",
+    "help": "Traffic police can conduct breath tests and arrest violators. Punishment is imprisonment up to 6 months and/or fine up to ₹10,000. Repeat offences attract harsher punishment including license suspension."
+  },
+  {
+    "keyword": "Defamation",
+    "aliases": ["character assassination", "false accusations", "reputation damage"],
+    "section": "Section 499 IPC (definition), Section 500 IPC (punishment)",
+    "content": "Defamation means making false statements intending to harm the reputation of another. It can be spoken, written, or published.",
+    "help": "Victim can file a criminal complaint under Section 500 IPC or a civil suit for damages. Offender may face imprisonment up to 2 years, fine, or both. Apology or compensation may be ordered."
+  },
+  {
+    "keyword": "Human Trafficking",
+    "aliases": ["selling humans", "bonded labour", "women trafficking", "child trafficking"],
+    "section": "Section 370 IPC",
+    "content": "Human trafficking involves recruitment, transport, or sale of persons for exploitation including prostitution, slavery, or forced labour.",
+    "help": "Victims or witnesses should inform police or NGOs. Offenders face rigorous imprisonment not less than 7 years, which may extend to life imprisonment, along with fine. Rescue and rehabilitation measures are ensured."
+  },
+  {
+    "keyword": "Rioting",
+    "aliases": ["mob violence", "public disturbance", "crowd violence"],
+    "section": "Section 146 IPC (definition), Section 147 IPC (punishment)",
+    "content": "When five or more people use force or violence in a common unlawful object, it is rioting. It threatens public peace and order.",
+    "help": "Police may disperse mob and arrest rioters. Punishment under Section 147 IPC is imprisonment up to 2 years, fine, or both. If deadly weapons are used, punishment can extend to 3 years."
+  },
+  {
+    "keyword": "Forgery",
+    "aliases": ["fake documents", "false signature", "counterfeit papers"],
+    "section": "Section 463 IPC (definition), Section 465 IPC (punishment)",
+    "content": "Forgery means making a false document or electronic record with intent to cheat. Examples include fake certificates, forged signatures, or counterfeit property papers.",
+    "help": "Victim should complain to police. If convicted under Section 465 IPC, offender faces imprisonment up to 2 years, fine, or both. For forgery of valuable security or will, punishment is up to life imprisonment."
+  },
+  {
+    "keyword": "Trespassing",
+    "aliases": ["unauthorized entry", "illegal entry", "land invasion"],
+    "section": "Section 441 IPC (definition), Section 447 IPC (punishment)",
+    "content": "Trespassing means entering into property of another without permission, with intent to commit an offence, intimidate, or annoy.",
+    "help": "Owner can call police and file a complaint. Punishment under Section 447 IPC is imprisonment up to 3 months, fine up to ₹500, or both. Repeat offenders face harsher penalties."
+  },
+  {
+    "keyword": "Drug Possession",
+    "aliases": ["illegal drugs", "narcotics possession", "ganja", "heroin"],
+    "section": "Narcotic Drugs and Psychotropic Substances Act, 1985 (NDPS Act)",
+    "content": "Possession, sale, or use of banned drugs like heroin, cocaine, MDMA, ganja, without license is illegal. NDPS Act imposes strict liability.",
+    "help": "Police can search, seize, and arrest under NDPS Act. Punishment depends on quantity: small (6 months jail + fine), commercial (10–20 years rigorous imprisonment + ₹1–2 lakh fine). Bail is very difficult in NDPS cases."
+  },
+  {
+    "keyword": "Extortion",
+    "aliases": ["blackmail", "threat for money", "forced payment"],
+    "section": "Section 383 IPC (definition), Section 384 IPC (punishment)",
+    "content": "Extortion means intentionally putting someone in fear of injury to make them deliver money, property, or valuable security.",
+    "help": "Victim can file FIR. Offender faces imprisonment up to 3 years, fine, or both. If done by armed gangs or with threats to life, punishment may extend to 10 years."
+  },
+  {
+    "keyword": "Sexual Harassment at Workplace",
+    "aliases": ["workplace harassment", "POSH", "harassing women at work"],
+    "section": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "content": "Unwelcome sexual advances, requests for sexual favors, and physical or verbal conduct of sexual nature at the workplace are prohibited.",
+    "help": "Victim can complain to the Internal Complaints Committee (ICC) at workplace or police. Offender faces disciplinary action, termination, and criminal charges under Section 354A IPC (punishment up to 3 years)."
+  },
+   {
+    "keyword": "Money Laundering",
+    "aliases": ["black money", "illegal money transfer", "hawala"],
+    "section": "Prevention of Money Laundering Act (PMLA), 2002",
+    "content": "Money laundering is the process of concealing illegally obtained money by making it appear legitimate. This includes converting black money into white through shell companies, real estate, or hawala networks.",
+    "help": "The Enforcement Directorate investigates these cases. Offender faces rigorous imprisonment from 3 to 7 years (up to 10 years in narcotics-related laundering) and fine. Properties obtained through laundered money can be seized by the government."
+  },
+  {
+    "keyword": "Murder",
+    "aliases": ["homicide", "killing", "intentional death"],
+    "section": "Section 302 IPC",
+    "content": "Murder is the intentional killing of another person with premeditation or extreme knowledge of likely consequences. It is one of the most serious crimes under IPC.",
+    "help": "Police register FIR immediately. Punishment is death penalty or life imprisonment, and fine. Convicted persons lose all civil rights during imprisonment."
+  },
+  {
+    "keyword": "Attempt to Murder",
+    "aliases": ["murder attempt", "try to kill", "attempted homicide"],
+    "section": "Section 307 IPC",
+    "content": "An attempt to cause death with intention, even if the act does not result in death, is attempt to murder. Example: stabbing someone but victim survives.",
+    "help": "Victim should report to police. Offender faces imprisonment up to 10 years and fine. If hurt is caused, punishment may extend to life imprisonment."
+  },
+  {
+    "keyword": "Kidnapping",
+    "aliases": ["abduction", "child kidnapping", "illegal confinement"],
+    "section": "Section 363 IPC",
+    "content": "Kidnapping means taking a person away without consent, especially minors (under 18 for girls, under 16 for boys) or from lawful guardianship.",
+    "help": "Police must act immediately on FIR. Punishment is imprisonment up to 7 years and fine. If kidnapping is for ransom (Section 364A IPC), offender may face death penalty or life imprisonment."
+  },
+  {
+    "keyword": "Acid Attack",
+    "aliases": ["acid violence", "throwing acid", "chemical attack"],
+    "section": "Section 326A IPC",
+    "content": "Acid attack means throwing acid with intent to cause permanent damage, disfigurement, or disability. Victims suffer severe burns and lifelong trauma.",
+    "help": "Victims can file FIR and seek free medical treatment under law. Punishment is minimum 10 years rigorous imprisonment (may extend to life) and fine, which must cover medical expenses of victim."
+  },
+  {
+    "keyword": "Dowry Death",
+    "aliases": ["bride burning", "dowry harassment death"],
+    "section": "Section 304B IPC",
+    "content": "If a woman dies within 7 years of marriage due to harassment or cruelty related to dowry demand, it is considered dowry death.",
+    "help": "Police and magistrate must investigate. Husband or in-laws are presumed guilty unless proven otherwise. Punishment is imprisonment not less than 7 years, which may extend to life imprisonment."
+  },
+  {
+    "keyword": "Bigamy",
+    "aliases": ["second marriage", "illegal marriage", "two wives"],
+    "section": "Section 494 IPC",
+    "content": "Bigamy means marrying again during the lifetime of husband or wife without lawful divorce. It is illegal under Hindu Marriage Act and IPC (except for certain communities under personal laws).",
+    "help": "First spouse can file complaint. Punishment is imprisonment up to 7 years and fine. The second marriage is considered void under law."
+  },
+  {
+    "keyword": "Rape",
+    "aliases": ["sexual assault", "forced sex", "rape case"],
+    "section": "Section 375 IPC (definition), Section 376 IPC (punishment)",
+    "content": "Rape means sexual intercourse without consent, by force, threat, or deceit. Consent obtained under fear is invalid.",
+    "help": "Victim can file FIR under Section 376 IPC. Police must provide medical care and confidentiality. Punishment is rigorous imprisonment not less than 10 years, which may extend to life imprisonment, along with fine."
+  },
+  {
+    "keyword": "Gang Rape",
+    "aliases": ["group sexual assault", "multiple offender rape"],
+    "section": "Section 376D IPC",
+    "content": "When a woman is raped by multiple men acting together, it is gang rape. This is treated more seriously than single offender rape.",
+    "help": "Victim should approach police and NGOs for immediate support. Punishment is rigorous imprisonment not less than 20 years, which may extend to life imprisonment, and fine. Convicted persons are rarely granted bail."
+  },
+  {
+    "keyword": "Voyeurism",
+    "aliases": ["peeping tom", "watching women secretly", "camera spying"],
+    "section": "Section 354C IPC",
+    "content": "Voyeurism means watching or capturing the image of a woman engaging in private acts, where she expects not to be observed, without her consent.",
+    "help": "Victim can file FIR. Punishment for first conviction is imprisonment 1–3 years and fine. For second conviction, punishment is 3–7 years and fine."
+  },
+     {
+    "keyword": "Stalking",
+    "aliases": ["following", "harassment", "obsessive pursuit"],
+    "section": "Section 354D IPC",
+    "content": "Stalking refers to repeatedly following, contacting, or attempting to contact a woman despite clear disinterest. It can be physical stalking or online (cyberstalking).",
+    "help": "Victim can file FIR. First-time offenders face imprisonment up to 3 years and fine. Repeat offenders face imprisonment up to 5 years and fine. Bail is restricted for repeat offenders."
+  },
+  {
+    "keyword": "Sexual Harassment",
+    "aliases": ["eve teasing", "workplace harassment", "molestation"],
+    "section": "Section 354A IPC",
+    "content": "Any unwelcome sexual advances, physical contact, demand for sexual favors, showing pornography, or sexually colored remarks constitute sexual harassment.",
+    "help": "Victim can complain to police or Internal Complaints Committee (ICC) at workplace. Punishment includes imprisonment up to 3 years, fine, or both. Employers failing to act can also face penalties."
+  },
+  {
+    "keyword": "Cheating",
+    "aliases": ["fraud", "deception", "trickery"],
+    "section": "Section 415 & 420 IPC",
+    "content": "Cheating means deceiving someone fraudulently to deliver property or valuable security. Example: selling fake goods as real.",
+    "help": "Victim can lodge FIR. Punishment under Section 420 is imprisonment up to 7 years and fine. Convicted person’s property may be seized if obtained through cheating."
+  },
+  {
+    "keyword": "Forgery",
+    "aliases": ["fake documents", "false signature", "document fraud"],
+    "section": "Section 463, 465, 467 IPC",
+    "content": "Forgery means making false documents or electronic records with intent to deceive. Includes fake signatures, fake property documents, or tampering with digital data.",
+    "help": "Victim can complain to police. Punishment varies: general forgery (up to 2 years), forgery of valuable documents (up to 10 years and fine)."
+  },
+  {
+    "keyword": "Defamation",
+    "aliases": ["character assassination", "false accusation", "libel"],
+    "section": "Section 499 & 500 IPC",
+    "content": "Defamation means damaging someone’s reputation through false statements, either spoken (slander) or written (libel).",
+    "help": "Victim can file complaint in court. Punishment is imprisonment up to 2 years, fine, or both. Civil suits for monetary compensation can also be filed."
+  },
+  {
+    "keyword": "Trespassing",
+    "aliases": ["illegal entry", "property invasion", "land encroachment"],
+    "section": "Section 441 & 447 IPC",
+    "content": "Trespassing means entering another person’s property without permission with intent to annoy, intimidate, or commit an offence.",
+    "help": "Owner can lodge complaint. Punishment is imprisonment up to 3 months and fine up to ₹500, or both. For criminal trespass with intention to commit offence, punishment may be higher."
+  },
+  {
+    "keyword": "Extortion",
+    "aliases": ["blackmail", "threat for money", "ransom"],
+    "section": "Section 383 & 384 IPC",
+    "content": "Extortion means intentionally putting someone in fear of injury to obtain money, property, or valuable security. Example: threatening to publish private photos unless paid.",
+    "help": "Victim can report to police. Punishment is imprisonment up to 3 years and fine. If extortion involves putting a person in fear of death or grievous hurt, punishment may extend to 10 years."
+  },
+  {
+    "keyword": "Rioting",
+    "aliases": ["public violence", "mob violence", "crowd unrest"],
+    "section": "Section 146 & 147 IPC",
+    "content": "Rioting means use of force or violence by an unlawful assembly of 5 or more people with a common object.",
+    "help": "Police can use preventive measures under CrPC. Punishment is imprisonment up to 2 years, or fine, or both. If deadly weapons are used, punishment may extend to 3 years and fine."
+  },
+  {
+    "keyword": "Arson",
+    "aliases": ["fire crime", "property burning", "criminal mischief by fire"],
+    "section": "Section 435 & 436 IPC",
+    "content": "Arson means deliberately setting fire to property with intent to cause damage or danger to life.",
+    "help": "Police register FIR. Punishment is imprisonment up to 7 years and fine. If arson involves burning of dwelling house, religious place, or human life danger, punishment is life imprisonment or up to 10 years."
+  },
+  {
+    "keyword": "Counterfeiting Currency",
+    "aliases": ["fake notes", "currency forgery", "counterfeit money"],
+    "section": "Section 489A–489E IPC",
+    "content": "Counterfeiting means making or using fake currency notes or coins with intent to deceive. Possessing fake notes knowingly is also a crime.",
+    "help": "Victim (bank/public) can report to police. Offender faces imprisonment for life or up to 10 years and fine. Even possession of counterfeit notes is punishable with up to 7 years and fine."
+  },
+  {
+    "keyword": "Public Nuisance",
+    "aliases": ["disturbance", "noise pollution", "public inconvenience"],
+    "section": "Section 268 IPC",
+    "content": "Public nuisance means any act that causes common injury, danger, or annoyance to the public or people in general. Examples include loudspeakers at odd hours, blocking roads, or releasing harmful smoke.",
+    "help": "Anyone can lodge a complaint. Punishment is fine up to ₹200 or imprisonment up to 6 months. Courts can also order immediate removal of the nuisance."
+  },
+  {
+    "keyword": "Obscenity",
+    "aliases": ["vulgar content", "porn distribution", "indecent representation"],
+    "section": "Section 292 IPC, Indecent Representation of Women (Prohibition) Act, 1986",
+    "content": "Obscenity includes sale, distribution, or public display of obscene books, images, or content that corrupts public morality. Publishing or transmitting obscene material online is also covered.",
+    "help": "Police can seize material. Punishment is imprisonment up to 2 years and fine for first offence, up to 5 years for repeat offences. Online transmission can lead to imprisonment up to 7 years."
+  },
+  {
+    "keyword": "Gambling",
+    "aliases": ["betting", "illegal betting", "lottery scam"],
+    "section": "Public Gambling Act, 1867",
+    "content": "Running, being present in, or managing a common gaming house is an offence. Online gambling is also punishable under state laws unless licensed.",
+    "help": "Police can raid gambling houses. Punishment is imprisonment up to 3 months and fine up to ₹200. States like Goa and Sikkim allow regulated casinos but illegal betting is punishable."
+  },
+  {
+    "keyword": "Drunken Driving",
+    "aliases": ["drink and drive", "alcohol driving", "intoxicated driving"],
+    "section": "Section 185 Motor Vehicles Act, 1988",
+    "content": "Driving under the influence of alcohol (blood alcohol >30 mg per 100 ml) or drugs is an offence.",
+    "help": "Traffic police can conduct breath analyzer test. First offence: ₹10,000 fine and/or 6 months imprisonment. Repeat offence: ₹15,000 fine and up to 2 years imprisonment, plus license suspension."
+  },
+  {
+    "keyword": "Drug Possession",
+    "aliases": ["narcotics", "illegal drugs", "NDPS offence"],
+    "section": "NDPS Act, 1985",
+    "content": "Possession, consumption, sale, or trafficking of narcotic drugs (like heroin, cocaine, cannabis) without license is illegal.",
+    "help": "Punishment depends on quantity: small quantity (up to 1 year or fine), commercial quantity (up to 20 years and ₹2 lakh fine). Repeat offences can attract death penalty in rare cases."
+  },
+  {
+    "keyword": "Hate Speech",
+    "aliases": ["communal speech", "incitement", "provocation"],
+    "section": "Section 153A & 295A IPC",
+    "content": "Hate speech means promoting enmity between groups on grounds of religion, caste, language, etc., or deliberate insult to religion.",
+    "help": "Police can register FIR. Punishment is imprisonment up to 3 years and fine for Section 153A, and up to 5 years for Section 295A."
+  },
+  {
+    "keyword": "Unlawful Assembly",
+    "aliases": ["illegal gathering", "mob", "protest without permission"],
+    "section": "Section 141 & 143 IPC",
+    "content": "An assembly of 5 or more persons with a common unlawful object (e.g., violence, resisting law) is unlawful.",
+    "help": "Police can disperse assembly using CrPC powers. Punishment is imprisonment up to 6 months, fine, or both. If armed with deadly weapons, punishment may extend to 2 years."
+  },
+  {
+    "keyword": "Bribery",
+    "aliases": ["corruption", "illegal gratification", "kickbacks"],
+    "section": "Prevention of Corruption Act, 1988",
+    "content": "Taking or giving gratification (money, gift, favor) to a public servant for performing or omitting official duty is bribery.",
+    "help": "CBI/ACB can investigate. Public servant accepting bribe faces imprisonment 3–7 years and fine. Bribe giver also faces imprisonment up to 7 years."
+  },
+  {
+    "keyword": "Money Laundering",
+    "aliases": ["black money", "hawala", "illegal funds"],
+    "section": "Prevention of Money Laundering Act (PMLA), 2002",
+    "content": "Money laundering is the process of concealing illegally obtained money and projecting it as legitimate. Example: routing black money through shell companies.",
+    "help": "Enforcement Directorate (ED) investigates. Punishment is imprisonment 3–7 years (up to 10 years for drug-related cases) and fine. Properties can be attached/confiscated."
+  },
+  {
+    "keyword": "Dowry Death",
+    "aliases": ["dowry harassment death", "marriage cruelty death"],
+    "section": "Section 304B IPC",
+    "content": "If a woman dies within 7 years of marriage under suspicious circumstances and it is proven that she was harassed for dowry, it is dowry death.",
+    "help": "Family can file complaint. Punishment is imprisonment of minimum 7 years, which may extend to life imprisonment. In such cases, the husband and in-laws are presumed guilty unless proven otherwise."
+  },
+  {
+    "keyword": "Government-appointed agents for foreign Rulers",
+    "aliases": ["foreign ruler legal agent", "government appointed prosecutor", "foreign state legal representation"],
+    "section": "Section 85 CPC",
+    "content": "Section 85 empowers the Central Government to appoint persons to prosecute or defend suits on behalf of foreign Rulers. These agents are recognized for legal appearances and actions under CPC.",
+    "help": "Foreign Ruler must request representation. Central Government issues appointment order. Appointed agent can authorize others for legal actions. Courts accept them as official representatives."
+  },
+  {
+    "keyword": "Suits against foreign Rulers and Ambassadors",
+    "aliases": ["foreign ruler immunity", "suing foreign ambassador", "lawsuit against foreign envoy", "foreign state legal consent"],
+    "section": "Section 86 CPC",
+    "content": "Section 86 restricts suits against foreign States, Rulers, Ambassadors, and Envoys unless written consent is granted by the Central Government. It also limits execution of decrees and arrests.",
+    "help": "To sue a foreign Ruler or Ambassador, apply to Central Government for consent. If granted, file suit in specified court. No arrest or decree execution allowed without consent."
+  },
+  {
+    "keyword": "Naming foreign Rulers in suits",
+    "aliases": ["foreign ruler party name", "style of suit", "suing foreign state", "legal name of foreign ruler"],
+    "section": "Section 87 CPC",
+    "content": "Section 87 states that foreign Rulers may sue or be sued in the name of their State. The Central Government may direct alternate naming through agents.",
+    "help": "When filing suit involving a foreign Ruler, use the name of the State unless directed otherwise. Check government consent and naming instructions before proceeding."
+  },
+  {
+    "keyword": "Definition of foreign State and Ruler",
+    "aliases": ["foreign state meaning", "who is a foreign ruler", "recognized foreign head", "judicial notice of foreign state"],
+    "section": "Section 87A CPC",
+    "content": "Section 87A defines 'foreign State' and 'Ruler' for CPC purposes. Courts must take judicial notice of recognition status as per Central Government notifications.",
+    "help": "Before filing suit, verify if the foreign State and its Ruler are recognized by the Central Government. Courts automatically acknowledge such recognition without separate proof."
+  },
+  {
+    "keyword": "Application to former Indian States",
+    "aliases": ["former princely states", "suits against ex-rulers", "pre-constitution suits", "old Indian states litigation"],
+    "section": "Section 87B CPC",
+    "content": "Section 87B applies Sections 85 and 86 to Rulers of former Indian States for suits based on causes of action before the Constitution commenced.",
+    "help": "If suit involves a former Indian State and arose before 26 Jan 1950, follow same rules as for foreign Rulers. Check Gazette notification for recognized former States."
+  },
+  {
+    "keyword": "Divorce Act title and commencement",
+    "aliases": ["divorce act name", "act start date", "divorce law 1869"],
+    "section": "Section 1 Divorce Act",
+    "content": "This section declares the short title of the legislation as 'The Divorce Act' and states that it came into operation on April 1, 1869.",
+    "help": "Used for citation and reference. No legal action required under this section."
+  },
+  {
+    "keyword": "Extent and applicability of Divorce Act",
+    "aliases": ["divorce act coverage", "who can file divorce", "christian divorce law", "domicile requirement"],
+    "section": "Section 2 Divorce Act",
+    "content": "This section defines the territorial extent of the Act and limits relief to cases where parties profess the Christian religion and meet domicile or residency conditions in India.",
+    "help": "Before filing, ensure petitioner or respondent is Christian and meets domicile/residency criteria. Court checks eligibility before admitting petition."
+  },
+  {
+    "keyword": "Definitions under Divorce Act",
+    "aliases": ["divorce act terms", "high court meaning", "district court definition", "minor children", "desertion", "marriage with another woman"],
+    "section": "Section 3 Divorce Act",
+    "content": "This section provides definitions for key terms like High Court, District Court, minor children, desertion, and marriage with another woman under the Divorce Act.",
+    "help": "Refer to this section for interpreting terms used in petitions. Helps determine jurisdiction, eligibility, and scope of relief."
+  },
+  {
+    "keyword": "Jurisdiction of High Courts in matrimonial matters",
+    "aliases": ["high court divorce powers", "matrimonial jurisdiction", "marriage license exception"],
+    "section": "Section 4 Divorce Act",
+    "content": "This section states that High Courts and District Courts shall exercise matrimonial jurisdiction only as per the Divorce Act, except for granting marriage licenses.",
+    "help": "All divorce-related suits must follow this Act. Marriage licenses may still be granted outside its scope."
+  },
+  {
+    "keyword": "Enforcement of old matrimonial decrees",
+    "aliases": ["old divorce orders", "supreme court decree", "high court enforcement"],
+    "section": "Section 5 Divorce Act",
+    "content": "This section allows High Courts to enforce matrimonial decrees or orders made earlier by the Supreme Court or High Courts as if passed under this Act.",
+    "help": "If you have an old decree, approach the High Court for enforcement under this provision."
+  },
+  {
+    "keyword": "Pending matrimonial suits",
+    "aliases": ["ongoing divorce cases", "pending suits under divorce act", "matrimonial proceedings"],
+    "section": "Section 6 Divorce Act",
+    "content": "All matrimonial suits pending in High Courts at the time of commencement of the Act shall be treated as if instituted under this Act.",
+    "help": "No need to refile pending suits. Court will proceed under Divorce Act provisions."
+  },
+  {
+    "keyword": "English Divorce Court principles",
+    "aliases": ["english divorce law", "omitted section", "principles of divorce"],
+    "section": "Section 7 Divorce Act",
+    "content": "This section, which earlier directed courts to follow English Divorce Court principles, has been omitted by the 2001 Amendment.",
+    "help": "No legal action needed. Courts no longer follow English principles under this section."
+  },
+  {
+    "keyword": "Extraordinary jurisdiction of High Court",
+    "aliases": ["high court transfer power", "original jurisdiction", "divorce case transfer"],
+    "section": "Section 8 Divorce Act",
+    "content": "High Courts may remove any suit from District Court and try it themselves or transfer it to another District Judge.",
+    "help": "If needed, parties may request High Court to transfer or take over a case for fair trial."
+  },
+  {
+    "keyword": "Reference of legal questions to High Court",
+    "aliases": ["legal question reference", "usage of law", "district court referral", "stay of execution"],
+    "section": "Section 9 Divorce Act",
+    "content": "District Courts may refer legal questions to the High Court during proceedings or execution. Execution is stayed until High Court responds.",
+    "help": "If complex legal issues arise, parties or court may seek High Court's opinion. Execution of decree may be paused."
+  },
+  {
+    "keyword": "Grounds for nullity of marriage",
+    "aliases": ["impotence", "consanguinity", "lunacy", "bigamy", "marriage fraud", "invalid marriage"],
+    "section": "Section 19 Divorce Act",
+    "content": "This section lists grounds for declaring a marriage null and void, including impotence, prohibited relationships, mental incapacity, and existing prior marriage. It also allows nullity if consent was obtained by force or fraud.",
+    "help": "File petition in District Court citing valid ground. Submit medical or legal proof. Court verifies and may issue decree of nullity."
+  },
+  {
+    "keyword": "Confirmation of decree",
+    "aliases": ["district judge decree", "confirmation process", "omitted section"],
+    "section": "Section 20 Divorce Act",
+    "content": "This section, which earlier dealt with confirmation of District Judge's decree, has been omitted by the 2001 Amendment.",
+    "help": "No action needed. Confirmation process no longer applies."
+  },
+  {
+    "keyword": "Children of annulled marriage",
+    "aliases": ["legitimacy of children", "annulled marriage children", "inheritance rights", "good faith marriage"],
+    "section": "Section 21 Divorce Act",
+    "content": "Children born from a marriage annulled due to bigamy or insanity are considered legitimate if the marriage was entered in good faith. They retain inheritance rights from the competent parent.",
+    "help": "Mention children in annulment decree. Court ensures their rights are protected under succession laws."
+  },
+  {
+    "keyword": "Judicial separation replaces divorce a mensa et toro",
+    "aliases": ["judicial separation", "adultery", "cruelty", "desertion", "limited divorce"],
+    "section": "Section 22 Divorce Act",
+    "content": "This section abolishes divorce a mensa et toro and replaces it with judicial separation on grounds like adultery, cruelty, or desertion for two years or more.",
+    "help": "File petition for judicial separation in District Court. Provide evidence of adultery, cruelty, or desertion. Court may grant decree."
+  },
+  {
+    "keyword": "Petition for judicial separation",
+    "aliases": ["separation petition", "husband wife separation", "district court separation"],
+    "section": "Section 23 Divorce Act",
+    "content": "Either spouse may apply for judicial separation by petition. Court must be satisfied with the truth of the statements and absence of legal objections.",
+    "help": "Draft petition with grounds and facts. Submit to District Court. Attend hearings and present evidence."
+  },
+  {
+    "keyword": "Separated wife's property rights",
+    "aliases": ["wife property after separation", "spinster status", "intestate succession", "cohabitation effect"],
+    "section": "Section 24 Divorce Act",
+    "content": "A judicially separated wife is considered unmarried regarding property acquired during separation. She may dispose of it freely, and it passes as if husband were deceased unless cohabitation resumes.",
+    "help": "Wife may manage and inherit property independently. If cohabitation resumes, property remains hers unless written agreement states otherwise."
+  },
+  {
+    "keyword": "Separated wife's legal status",
+    "aliases": ["wife contract rights", "civil proceedings", "alimony default", "legal independence"],
+    "section": "Section 25 Divorce Act",
+    "content": "During judicial separation, wife is treated as unmarried for contracts and lawsuits. Husband is not liable for her actions, except for unpaid alimony and necessaries.",
+    "help": "Wife may enter contracts and sue independently. If alimony is unpaid, husband may be liable for essentials. Joint powers remain exercisable."
+  },
+  {
+    "keyword": "Reversal of separation decree",
+    "aliases": ["separation reversal", "absence during decree", "desertion excuse", "petition to reverse"],
+    "section": "Section 26 Divorce Act",
+    "content": "Spouse against whom judicial separation was decreed may petition for reversal if decree was passed in their absence and desertion was reasonably excused.",
+    "help": "File reversal petition in same court. Provide valid reason for absence and desertion. Court may reverse decree without affecting third-party rights."
+  },
+  {
+    "keyword": "Enforcement and appeals of decrees",
+    "aliases": ["appeal process", "civil decree enforcement", "divorce order appeal", "costs appeal bar"],
+    "section": "Section 55 Divorce Act",
+    "content": "All decrees and orders under this Act are enforced and appealed like original civil jurisdiction orders. However, no appeal lies solely on the subject of costs.",
+    "help": "If dissatisfied with a decree, file appeal as per CPC rules. Appeals on costs alone are not permitted."
+  },
+  {
+    "keyword": "Appeal to Supreme Court",
+    "aliases": ["supreme court divorce appeal", "high court decree appeal", "decree nisi exception"],
+    "section": "Section 56 Divorce Act",
+    "content": "Appeals to the Supreme Court are allowed from High Court decrees (except decree nisi) if the High Court certifies the case as fit for appeal.",
+    "help": "Apply for certificate of fitness from High Court. If granted, file appeal in Supreme Court within limitation period."
+  },
+  {
+    "keyword": "Right to remarry after final decree",
+    "aliases": ["remarriage after divorce", "nullity remarriage", "final decree marriage", "liberty to marry again"],
+    "section": "Section 57 Divorce Act",
+    "content": "Once a decree of dissolution or nullity becomes final (no appeal or appeal dismissed), either party is legally free to marry again.",
+    "help": "Check if appeal period has expired or appeal dismissed. Obtain certified copy of final decree before remarrying."
+  },
+  {
+    "keyword": "English clergyman exemption",
+    "aliases": ["church marriage refusal", "clergyman rights", "adultery divorce remarriage"],
+    "section": "Section 58 Divorce Act",
+    "content": "Clergymen of the Church of England are not compelled to solemnize marriages of persons divorced for adultery and face no penalty for refusal.",
+    "help": "If refused by clergyman, seek alternate officiant. No legal action can be taken against the refusing clergyman."
+  },
+  {
+    "keyword": "Alternate minister may solemnize marriage",
+    "aliases": ["church access for marriage", "minister refusal", "alternate officiant"],
+    "section": "Section 59 Divorce Act",
+    "content": "If a minister refuses to perform a marriage, another qualified minister within the diocese may use the same church or chapel to solemnize it.",
+    "help": "Request alternate minister through diocesan authority. Original minister must permit use of premises."
+  },
+  {
+    "keyword": "Protection for third parties dealing with separated wife",
+    "aliases": ["judicial separation protection", "property order indemnity", "third party rights"],
+    "section": "Section 60 Divorce Act",
+    "content": "Decrees of separation or protection orders remain valid for third parties until reversed. Payments or acts done in good faith are indemnified unless reversal was known.",
+    "help": "Third parties dealing with separated wife are protected unless they had notice of reversal. Keep records of transactions and decree status."
+  },
+  {
+    "keyword": "Bar on suit for criminal conversation",
+    "aliases": ["adultery lawsuit ban", "criminal conversation suit", "marital misconduct suit"],
+    "section": "Section 61 Divorce Act",
+    "content": "No person eligible to file divorce petition under sections 2 or 10 may maintain a separate suit for criminal conversation with their wife.",
+    "help": "Use divorce proceedings to address adultery. Separate civil suits for criminal conversation are barred."
+  },
+  {
+    "keyword": "High Court rule-making power",
+    "aliases": ["divorce act rules", "high court authority", "rule publication"],
+    "section": "Section 62 Divorce Act",
+    "content": "High Courts may frame, amend, and publish rules under this Act, provided they align with the Divorce Act and CPC provisions.",
+    "help": "Refer to High Court rules for procedural guidance. Rules are published in Official Gazette and must be followed in petitions."
+  },
+  {
+    "keyword": "Interpretation of legal terms",
+    "aliases": ["definition of evidence", "fact in issue", "document meaning", "proved disproved", "court definition", "IT Act terms"],
+    "section": "Section 3 Evidence Act",
+    "content": "This section defines key terms used in the Evidence Act, including Court, Fact, Relevant, Facts in issue, Document, Evidence, Proved, Disproved, Not proved, and India. It also incorporates definitions from the Information Technology Act, 2000.",
+    "help": "Refer to this section to understand how terms like 'evidence', 'document', and 'fact' are interpreted legally. Essential for framing arguments and understanding admissibility."
+  },
+  {
+    "keyword": "Presumption and proof",
+    "aliases": ["may presume", "shall presume", "conclusive proof", "legal presumption", "burden of proof"],
+    "section": "Section 4 Evidence Act",
+    "content": "This section explains three levels of legal presumption: 'may presume', 'shall presume', and 'conclusive proof'. It guides how courts treat facts based on statutory direction.",
+    "help": "Use this section to determine whether a fact needs to be proved or is presumed. Helps in deciding evidence strategy."
+  },
+  {
+    "keyword": "Admissibility of facts in issue and relevant facts",
+    "aliases": ["facts in issue", "relevant facts", "evidence admissibility", "legal relevance"],
+    "section": "Section 5 Evidence Act",
+    "content": "Evidence may be given only for facts in issue and those declared relevant under the Act. No other facts are admissible.",
+    "help": "Focus only on facts in issue and relevant facts when presenting evidence. Irrelevant facts are inadmissible."
+  },
+  {
+    "keyword": "Facts forming part of same transaction",
+    "aliases": ["same transaction", "connected facts", "sequence of events", "contextual relevance"],
+    "section": "Section 6 Evidence Act",
+    "content": "Facts not in issue but connected with a fact in issue as part of the same transaction are relevant, regardless of time or place.",
+    "help": "Include surrounding facts that form part of the same transaction. Useful in criminal and civil cases to establish context."
+  },
+  {
+    "keyword": "Cause, occasion or effect of facts in issue",
+    "aliases": ["cause of fact", "effect of fact", "occasion", "state of things", "opportunity for occurrence"],
+    "section": "Section 7 Evidence Act",
+    "content": "Facts that are the occasion, cause, or effect of facts in issue or relevant facts, or that describe the surrounding circumstances, are relevant.",
+    "help": "Use this section to admit facts that explain why or how an event occurred. Supports causation and context."
+  },
+  {
+    "keyword": "Motive, preparation and conduct",
+    "aliases": ["motive", "preparation", "conduct before or after", "party behavior", "offence victim conduct"],
+    "section": "Section 8 Evidence Act",
+    "content": "Facts showing motive, preparation, or conduct of parties or victims in relation to the case are relevant, whether before or after the event.",
+    "help": "Present facts showing intent, planning, or reaction. Helps establish mental state and involvement."
+  },
+  {
+    "keyword": "Conspiracy and common intention",
+    "aliases": ["conspirator statements", "common design", "group offence", "joint action", "conspiracy proof"],
+    "section": "Section 10 Evidence Act",
+    "content": "When two or more persons are believed to have conspired to commit an offence or actionable wrong, anything said, done, or written by any one of them in reference to their common intention is relevant against all conspirators.",
+    "help": "Use this section to admit evidence from any conspirator to prove existence and participation in conspiracy. Applies after intention is formed."
+  },
+  {
+    "keyword": "Facts becoming relevant due to inconsistency or probability",
+    "aliases": ["inconsistent facts", "probability of fact", "indirect relevance", "connected facts"],
+    "section": "Section 11 Evidence Act",
+    "content": "Facts not otherwise relevant become relevant if they are inconsistent with facts in issue or if they make the existence or non-existence of such facts highly probable or improbable.",
+    "help": "Use this section to introduce facts that contradict or strongly support/disprove facts in issue. Helps in cross-examination and rebuttal."
+  },
+  {
+    "keyword": "Facts relevant to determine damages",
+    "aliases": ["damage calculation", "compensation facts", "loss assessment", "suit for damages"],
+    "section": "Section 12 Evidence Act",
+    "content": "In suits claiming damages, any fact that helps the Court determine the amount to be awarded is relevant.",
+    "help": "Submit financial records, expert reports, or impact assessments to support damage claims. Court uses them to quantify compensation."
+  },
+  {
+    "keyword": "Right or custom in question",
+    "aliases": ["customary rights", "legal custom", "right recognition", "custom disputes"],
+    "section": "Section 13 Evidence Act",
+    "content": "When a right or custom is in question, transactions or instances that created, claimed, modified, or denied it are relevant.",
+    "help": "Present historical records, agreements, or past practices to prove or dispute existence of a right or custom."
+  },
+  {
+    "keyword": "State of mind or bodily feeling",
+    "aliases": ["intention", "negligence", "mental state", "bodily condition", "emotional state"],
+    "section": "Section 14 Evidence Act",
+    "content": "Facts showing existence of a state of mind (e.g., intention, good faith, ill-will) or bodily feeling are relevant when such states are in issue.",
+    "help": "Use this section to prove motive, emotional condition, or physical state relevant to the case. Supports claims of intent or distress."
+  },
+  {
+    "keyword": "Accidental or intentional act",
+    "aliases": ["accident vs intention", "pattern of conduct", "similar occurrences", "repeated acts"],
+    "section": "Section 15 Evidence Act",
+    "content": "When it's questioned whether an act was accidental or intentional, similar past occurrences involving the same person are relevant.",
+    "help": "Present evidence of repeated behavior to show pattern. Helps establish intent or refute accident claim."
+  },
+  {
+    "keyword": "Course of business relevance",
+    "aliases": ["business routine", "standard practice", "usual procedure", "habitual conduct"],
+    "section": "Section 16 Evidence Act",
+    "content": "If there's a question whether an act was done, the existence of a business routine or course of conduct that suggests it would have been done is relevant.",
+    "help": "Use this to prove that an act likely occurred due to standard business practice. Supports claims based on routine."
+  },
+  {
+    "keyword": "Title and extent of IPC",
+    "aliases": ["IPC name", "IPC coverage", "Indian Penal Code applicability", "Jammu and Kashmir exclusion"],
+    "section": "Section 1 IPC",
+    "content": "This section declares the name of the Act as the Indian Penal Code and states that it extends to the whole of India except the State of Jammu and Kashmir.",
+    "help": "Used for citation and jurisdictional reference. No legal action required under this section."
+  },
+  {
+    "keyword": "Punishment for offences within India",
+    "aliases": ["offence in India", "IPC punishment", "criminal liability", "acts within India"],
+    "section": "Section 2 IPC",
+    "content": "Every person is liable to punishment under the IPC for acts or omissions committed within India that violate its provisions.",
+    "help": "If offence occurs within Indian territory, IPC applies. Police register FIR and proceed under relevant sections."
+  },
+  {
+    "keyword": "Punishment for offences committed outside India",
+    "aliases": ["extraterritorial offence", "trial in India", "offence abroad", "IPC outside India"],
+    "section": "Section 3 IPC",
+    "content": "Persons liable under Indian law for offences committed beyond India shall be dealt with under IPC as if the act occurred within India.",
+    "help": "If Indian law allows trial for foreign offence, IPC provisions apply. Court treats it like domestic offence."
+  },
+  {
+    "keyword": "Extension of IPC to extra-territorial offences",
+    "aliases": ["IPC global reach", "offence by Indian abroad", "extraterritorial jurisdiction"],
+    "section": "Section 4 IPC",
+    "content": "IPC provisions apply to offences committed outside India by Indian citizens or on Indian registered ships or aircraft.",
+    "help": "Police or agencies may initiate action even if offence occurred abroad, subject to legal provisions."
+  },
+  {
+    "keyword": "IPC not affecting special laws",
+    "aliases": ["mutiny laws", "desertion laws", "special law override", "local law protection"],
+    "section": "Section 5 IPC",
+    "content": "IPC does not affect laws related to mutiny, desertion, or any special or local laws in force.",
+    "help": "Check if special law applies before invoking IPC. IPC is overridden by specific provisions in such cases."
+  },
+  {
+    "keyword": "Definitions subject to exceptions",
+    "aliases": ["general exceptions", "penal provision limits", "definition scope"],
+    "section": "Section 6 IPC",
+    "content": "All definitions, penal provisions, and illustrations in IPC are subject to the exceptions listed in the 'General Exceptions' chapter.",
+    "help": "Always consider exceptions before applying any IPC section. Helps avoid wrongful prosecution."
+  },
+  {
+    "keyword": "Uniform meaning of expressions",
+    "aliases": ["expression consistency", "defined terms", "code-wide meaning"],
+    "section": "Section 7 IPC",
+    "content": "Any expression explained in IPC is used consistently throughout the Code in accordance with its explanation.",
+    "help": "Refer to defined meanings across IPC. Ensures uniform interpretation in legal proceedings."
+  },
+  {
+    "keyword": "Gender usage in IPC",
+    "aliases": ["he includes she", "gender neutral IPC", "male female reference"],
+    "section": "Section 8 IPC",
+    "content": "The pronoun 'he' and its derivatives are used for any person, male or female.",
+    "help": "Interpret gendered terms as inclusive. IPC applies equally to all genders."
+  },
+  {
+    "keyword": "Singular and plural interpretation",
+    "aliases": ["singular includes plural", "plural includes singular", "number usage"],
+    "section": "Section 9 IPC",
+    "content": "Words importing singular include plural and vice versa, unless context indicates otherwise.",
+    "help": "Use this section to interpret number references flexibly. Avoid misreading provisions."
+  },
+  {
+    "keyword": "Definition of man and woman",
+    "aliases": ["man meaning", "woman meaning", "gender definition", "human classification"],
+    "section": "Section 10 IPC",
+    "content": "The word 'man' denotes a male human being of any age; 'woman' denotes a female human being of any age.",
+    "help": "Used for gender-specific provisions. Clarifies scope of terms in IPC sections."
+  },
+  {
+    "keyword": "Government definition",
+    "aliases": ["central government", "state government", "government meaning", "IPC government"],
+    "section": "Section 17 IPC",
+    "content": "The word 'Government' in IPC refers to either the Central Government or the Government of a State.",
+    "help": "Used to identify authority in offences involving public administration or officials. Clarifies jurisdiction."
+  },
+  {
+    "keyword": "India definition",
+    "aliases": ["territory of India", "IPC India", "India meaning", "Jammu Kashmir exclusion"],
+    "section": "Section 18 IPC",
+    "content": "India means the territory of India excluding the State of Jammu and Kashmir, as per IPC definition.",
+    "help": "Used to determine territorial applicability of IPC provisions. Check for updates post constitutional changes."
+  },
+  {
+    "keyword": "Judge definition",
+    "aliases": ["who is a judge", "legal authority", "judgment power", "judicial officer"],
+    "section": "Section 19 IPC",
+    "content": "The word 'Judge' includes anyone officially designated as a Judge or legally empowered to give definitive judgments in civil or criminal proceedings.",
+    "help": "Used to identify judicial authority in legal processes. Helps determine valid court actions."
+  },
+  {
+    "keyword": "Court of Justice definition",
+    "aliases": ["judicial body", "judge acting judicially", "court meaning", "legal court"],
+    "section": "Section 20 IPC",
+    "content": "Court of Justice refers to a Judge or body of Judges empowered by law to act judicially when performing judicial functions.",
+    "help": "Used to establish whether a proceeding or order is from a valid judicial authority."
+  },
+  {
+    "keyword": "Public servant definition",
+    "aliases": ["government employee", "public officer", "civil servant", "IPC public servant"],
+    "section": "Section 21 IPC",
+    "content": "Public servant includes persons falling under specific legal descriptions such as government officers, judges, and others performing public duties.",
+    "help": "Used to determine liability and protection under IPC for acts involving public servants."
+  },
+  {
+    "keyword": "Movable property definition",
+    "aliases": ["corporeal property", "movable assets", "property not land", "IPC movable property"],
+    "section": "Section 22 IPC",
+    "content": "Movable property includes all corporeal property except land and items attached to or fastened to the earth.",
+    "help": "Used in theft, criminal misappropriation, and property offences. Clarifies scope of property involved."
+  },
+  {
+    "keyword": "Wrongful gain and loss",
+    "aliases": ["unlawful gain", "illegal loss", "property deprivation", "wrongful possession"],
+    "section": "Section 23 IPC",
+    "content": "Wrongful gain is acquiring property unlawfully. Wrongful loss is losing property unlawfully. Includes retaining or depriving property wrongfully.",
+    "help": "Used to assess intent and impact in property-related offences. Helps define dishonest conduct."
+  },
+  {
+    "keyword": "Dishonestly definition",
+    "aliases": ["wrongful gain", "wrongful loss", "criminal intent", "dishonest act"],
+    "section": "Section 24 IPC",
+    "content": "An act is done 'dishonestly' when intended to cause wrongful gain to one person or wrongful loss to another.",
+    "help": "Used to establish mens rea in offences like theft, cheating, and misappropriation."
+  },
+  {
+    "keyword": "Fraudulently definition",
+    "aliases": ["intent to defraud", "fraud meaning", "deceptive intent", "fraudulent act"],
+    "section": "Section 25 IPC",
+    "content": "An act is done 'fraudulently' when performed with intent to defraud, and not otherwise.",
+    "help": "Used to prove fraudulent intention in offences like forgery, cheating, and criminal breach of trust."
+  },
+  {
+    "keyword": "Reason to believe",
+    "aliases": ["sufficient cause", "belief standard", "legal belief", "IPC belief threshold"],
+    "section": "Section 26 IPC",
+    "content": "A person has 'reason to believe' something if there is sufficient cause to believe it, not otherwise.",
+    "help": "Used to assess knowledge and belief in offences requiring mental awareness or negligence."
+  },
+  {
+    "keyword": "Good faith",
+    "aliases": ["due care", "legal belief", "honest intention", "faith with attention"],
+    "section": "Section 52 IPC",
+    "content": "An act or belief is not considered done in 'good faith' if it lacks due care and attention.",
+    "help": "Used to assess intent in cases involving negligence or honest mistake. Prove care and attention to claim good faith."
+  },
+  {
+    "keyword": "Harbouring a person",
+    "aliases": ["sheltering offender", "evading arrest", "harbour definition", "assisting escape"],
+    "section": "Section 52A IPC",
+    "content": "Harbour includes providing shelter, food, money, arms, or any assistance to help a person evade apprehension, except in cases where spouse provides it under sections 130 and 157.",
+    "help": "Used in cases of aiding fugitives. Harbouring may attract criminal liability unless exempted."
+  },
+  {
+    "keyword": "Types of punishments",
+    "aliases": ["IPC punishments", "criminal penalties", "legal consequences", "punishment types"],
+    "section": "Section 53 IPC",
+    "content": "This section lists punishments under IPC, including death, imprisonment (rigorous or simple), forfeiture of property, and fine.",
+    "help": "Court selects punishment based on offence severity. Refer to this section for sentencing options."
+  },
+  {
+    "keyword": "Transportation references",
+    "aliases": ["transportation for life", "rigorous imprisonment", "old sentencing terms", "IPC transportation"],
+    "section": "Section 53A IPC",
+    "content": "References to 'transportation' in older laws are construed as 'imprisonment for life'. Sentences passed before 1955 are treated as rigorous imprisonment.",
+    "help": "Used to interpret legacy laws. Courts apply modern equivalents for sentencing clarity."
+  },
+  {
+    "keyword": "Commutation of death sentence",
+    "aliases": ["death penalty reduction", "government commutation", "sentence change", "capital punishment"],
+    "section": "Section 54 IPC",
+    "content": "The appropriate Government may commute a death sentence to any other punishment under IPC without the offender's consent.",
+    "help": "Apply to Government for commutation. No consent required from convict. Used in mercy petitions."
+  },
+  {
+    "keyword": "Commutation of life imprisonment",
+    "aliases": ["life sentence reduction", "14 year limit", "government discretion", "sentence commutation"],
+    "section": "Section 55 IPC",
+    "content": "The appropriate Government may commute life imprisonment to a term not exceeding 14 years, without the convict's consent.",
+    "help": "Used in sentence review or remission applications. Government decides based on case merits."
+  },
+  {
+    "keyword": "Definition of appropriate Government",
+    "aliases": ["central or state government", "commutation authority", "government role in sentencing"],
+    "section": "Section 55A IPC",
+    "content": "Defines 'appropriate Government' for sections 54 and 55 — either Central or State Government depending on jurisdiction.",
+    "help": "Identify correct authority before filing commutation or mercy petition. Jurisdiction depends on offence type and location."
+  },
+  {
+    "keyword": "Repealed provision on penal servitude",
+    "aliases": ["racial discrimination repeal", "European sentencing", "American sentencing", "IPC repeal"],
+    "section": "Section 56 IPC",
+    "content": "This section, which dealt with penal servitude for Europeans and Americans, was repealed by the Criminal Law (Removal of Racial Discriminations) Act, 1949.",
+    "help": "No action needed. Provision no longer in force. All persons now subject to uniform sentencing."
+  },
+  {
+    "keyword": "Abetment of assault on superior officer",
+    "aliases": ["military assault abetment", "officer attack", "armed forces assault", "abetting soldier assault"],
+    "section": "Section 134 IPC",
+    "content": "Whoever abets an assault by a member of the armed forces on a superior officer in the execution of duty shall be punished with imprisonment up to seven years and fine if the assault is committed.",
+    "help": "Used in cases where civilians or others provoke armed personnel to attack superiors. FIR can be filed under this section."
+  },
+  {
+    "keyword": "Abetment of desertion",
+    "aliases": ["desertion support", "military desertion", "abetting desertion", "soldier leaving service"],
+    "section": "Section 135 IPC",
+    "content": "Whoever abets the desertion of any armed forces personnel shall be punished with imprisonment up to two years, or fine, or both.",
+    "help": "Applicable when someone encourages or helps a soldier, sailor, or airman to flee service. Police can register case under this section."
+  },
+  {
+    "keyword": "Harbouring deserter",
+    "aliases": ["sheltering deserter", "hiding soldier", "deserter protection", "military fugitive"],
+    "section": "Section 136 IPC",
+    "content": "Anyone who knowingly harbours a deserter from the armed forces shall be punished with imprisonment up to two years, or fine, or both.",
+    "help": "Used when someone provides shelter or aid to a known deserter. Exceptions apply in some cases like spouse."
+  },
+  {
+    "keyword": "Negligent concealment of deserter on ship",
+    "aliases": ["merchant vessel deserter", "ship concealment", "captain negligence", "deserter on board"],
+    "section": "Section 137 IPC",
+    "content": "A ship master who negligently allows a deserter to be concealed on board may be fined up to ₹500 even if unaware, if due diligence was lacking.",
+    "help": "Applies to merchant vessel captains who fail to prevent concealment of deserters due to negligence or poor discipline."
+  },
+  {
+    "keyword": "Abetment of insubordination",
+    "aliases": ["military disobedience", "abetting defiance", "insubordination support", "armed forces misconduct"],
+    "section": "Section 138 IPC",
+    "content": "Whoever abets an act of insubordination by armed forces personnel shall be punished with imprisonment up to six months, or fine, or both, if the act is committed.",
+    "help": "Used when someone provokes or supports defiance of orders by soldiers, sailors, or airmen."
+  },
+  {
+    "keyword": "Repealed section on Indian Marine Service",
+    "aliases": ["marine service repeal", "section 138A repealed", "IPC repeal 1934"],
+    "section": "Section 138A IPC",
+    "content": "This section, which extended previous provisions to the Indian Marine Service, was repealed by the Amending Act, 1934.",
+    "help": "No action needed. This section is no longer in force."
+  },
+  {
+    "keyword": "Exemption for armed forces personnel",
+    "aliases": ["army act exemption", "navy act immunity", "air force act", "military law override"],
+    "section": "Section 139 IPC",
+    "content": "Persons subject to military laws like the Army Act, Navy Act, or Air Force Act are not punishable under IPC for offences defined in this chapter.",
+    "help": "Military personnel are governed by their respective service laws for such offences, not IPC."
+  },
+  {
+    "keyword": "Impersonating armed forces personnel",
+    "aliases": ["fake soldier", "military uniform misuse", "false identity", "wearing army dress"],
+    "section": "Section 140 IPC",
+    "content": "Anyone who wears or carries items resembling military garb or tokens with intent to impersonate armed forces personnel shall be punished with imprisonment up to three months, or fine up to ₹500, or both.",
+    "help": "Used in cases of impersonation for fraud or deception. Police can take action under this section."
+  },
+  {
+    "keyword": "Unlawful assembly definition",
+    "aliases": ["illegal gathering", "riot group", "five or more persons", "common object"],
+    "section": "Section 141 IPC",
+    "content": "An assembly of five or more persons is unlawful if their common object is to commit an offence, resist law, or disturb public order.",
+    "help": "Used to define group gatherings that pose threat to peace. Police can disperse and arrest under this section."
+  },
+  {
+    "keyword": "Being member of unlawful assembly",
+    "aliases": ["joining illegal gathering", "unlawful group", "assembly participation"],
+    "section": "Section 142 IPC",
+    "content": "Anyone who knowingly joins or remains in an unlawful assembly is considered a member of that assembly.",
+    "help": "Used to charge individuals who participate in or support unlawful gatherings knowingly."
+  },
+  {
+    "keyword": "Punishment for unlawful assembly",
+    "aliases": ["unlawful assembly penalty", "group offence punishment", "six month jail"],
+    "section": "Section 143 IPC",
+    "content": "Members of an unlawful assembly are punishable with imprisonment up to six months, or fine, or both.",
+    "help": "Police can arrest and charge participants under this section. Bail may be granted depending on circumstances."
+  },
+  {
+    "keyword": "Joining unlawful assembly with deadly weapon",
+    "aliases": ["armed unlawful assembly", "weapon in riot", "dangerous gathering"],
+    "section": "Section 144 IPC",
+    "content": "Anyone who joins an unlawful assembly while armed with a deadly weapon or object likely to cause death shall be punished with imprisonment up to two years, or fine, or both.",
+    "help": "Used in violent protests or riots involving weapons. Enhances severity of charges."
+  },
+  {
+    "keyword": "Disobeying dispersal order of unlawful assembly",
+    "aliases": ["refusing to disperse", "illegal gathering continues", "assembly after warning"],
+    "section": "Section 145 IPC",
+    "content": "Anyone who joins or continues in an unlawful assembly after it has been lawfully ordered to disperse shall be punished with imprisonment up to two years, or fine, or both.",
+    "help": "Police can arrest individuals who defy dispersal orders. Used during curfews or riot control."
+  },
+  {
+    "keyword": "Applicability of Hindu Marriage Act",
+    "aliases": ["who it applies to", "Hindu religion", "marriage law scope"],
+    "section": "Section 2 HMA",
+    "content": "This Act applies to Hindus, Buddhists, Jains, and Sikhs, and to those who have converted or re-converted to these religions.",
+    "help": "Check religious status before filing under this Act. Non-Hindus are governed by other marriage laws."
+  },
+  {
+    "keyword": "Conditions for a valid Hindu marriage",
+    "aliases": ["marriage requirements", "legal marriage conditions", "Hindu marriage rules"],
+    "section": "Section 5 HMA",
+    "content": "Lists conditions for a valid Hindu marriage, including monogamy, mental capacity, age, and prohibited relationships.",
+    "help": "Ensure all conditions are met before registration. Violations may lead to annulment or criminal charges."
+  },
+  {
+    "keyword": "Ceremonies of Hindu marriage",
+    "aliases": ["marriage rituals", "customary rites", "solemnization"],
+    "section": "Section 7 HMA",
+    "content": "A Hindu marriage is solemnized according to customary rites and ceremonies, including Saptapadi (seven steps).",
+    "help": "Follow community-specific rituals. Proof of ceremony is needed for legal recognition."
+  },
+  {
+    "keyword": "Registration of Hindu marriages",
+    "aliases": ["marriage certificate", "legal proof", "registration process"],
+    "section": "Section 8 HMA",
+    "content": "Provides for optional registration of Hindu marriages for legal documentation and proof.",
+    "help": "Visit local registrar with documents and witnesses. Registration strengthens legal standing."
+  },
+  {
+    "keyword": "Restitution of conjugal rights",
+    "aliases": ["spouse return", "marital rights", "legal separation"],
+    "section": "Section 9 HMA",
+    "content": "Allows a spouse to seek court order for the other to resume cohabitation if withdrawn without reasonable cause.",
+    "help": "File petition in family court. Court may order reunion unless justified separation is proven."
+  },
+  {
+    "keyword": "Judicial separation",
+    "aliases": ["legal separation", "marriage pause", "court ordered separation"],
+    "section": "Section 10 HMA",
+    "content": "Either spouse may seek judicial separation on grounds like cruelty, adultery, desertion, etc.",
+    "help": "File petition with evidence. Separation allows living apart without ending marriage."
+  },
+  {
+    "keyword": "Void marriages",
+    "aliases": ["invalid marriage", "illegal marriage", "null marriage"],
+    "section": "Section 11 HMA",
+    "content": "Declares marriages void if conditions under Section 5 are violated, such as bigamy or prohibited relationships.",
+    "help": "File petition to declare marriage null. No legal rights arise from void marriages."
+  },
+  {
+    "keyword": "Voidable marriages",
+    "aliases": ["annulment", "marriage cancellation", "fraud or coercion"],
+    "section": "Section 12 HMA",
+    "content": "Allows annulment of marriage if consent was obtained by fraud, coercion, or if spouse was impotent or mentally unfit.",
+    "help": "File within one year of discovering the issue. Court may annul marriage if proven."
+  },
+  {
+    "keyword": "Legitimacy of children from void/voidable marriages",
+    "aliases": ["child rights", "legitimate children", "inheritance rights"],
+    "section": "Section 16 HMA",
+    "content": "Children from void or voidable marriages are considered legitimate for inheritance purposes.",
+    "help": "Protects child rights despite invalid marriage. Does not affect property rights beyond parents."
+  },
+  {
+    "keyword": "Divorce grounds",
+    "aliases": ["divorce reasons", "legal separation", "marriage dissolution"],
+    "section": "Section 13 HMA",
+    "content": "Lists grounds for divorce including adultery, cruelty, desertion, conversion, mental disorder, and more.",
+    "help": "File petition with supporting evidence. Court evaluates grounds before granting divorce."
+  },
+  {
+    "keyword": "Divorce by mutual consent",
+    "aliases": ["mutual divorce", "consensual separation", "amicable divorce"],
+    "section": "Section 13B HMA",
+    "content": "Allows both spouses to jointly file for divorce if living separately for one year and mutually agree to end marriage.",
+    "help": "File joint petition. Court grants divorce after 6-month cooling period unless waived."
+  },
+  {
+    "keyword": "Maintenance pendente lite",
+    "aliases": ["interim maintenance", "temporary support", "during case"],
+    "section": "Section 24 HMA",
+    "content": "Provides for maintenance and legal expenses to a spouse during ongoing proceedings.",
+    "help": "Apply during divorce or separation case. Court decides based on income and need."
+  },
+  {
+    "keyword": "Permanent alimony and maintenance",
+    "aliases": ["financial support", "post-divorce maintenance", "spousal support"],
+    "section": "Section 25 HMA",
+    "content": "Court may grant permanent alimony to either spouse based on income, conduct, and circumstances.",
+    "help": "Apply after divorce or separation. Court decides amount and duration."
+  },
+  {
+    "keyword": "Custody of children",
+    "aliases": ["child custody", "parental rights", "minor guardianship"],
+    "section": "Section 26 HMA",
+    "content": "Court decides custody, maintenance, and education of minor children during proceedings.",
+    "help": "File application with child welfare details. Court prioritizes child’s best interest."
+  },
+  {
+    "keyword": "Appeals",
+    "aliases": ["challenge court order", "family court appeal", "higher court review"],
+    "section": "Section 28 HMA",
+    "content": "Allows appeal against decrees and orders under this Act within prescribed time limits.",
+    "help": "File appeal in High Court within 90 days. Grounds must be legal or procedural."
+  },
+  {
+    "keyword": "Savings clause",
+    "aliases": ["existing laws", "other marriage laws", "legal overlap"],
+    "section": "Section 29 HMA",
+    "content": "Preserves rights under other laws and customs not inconsistent with this Act.",
+    "help": "Check if community customs or other laws apply. This Act does not override valid traditions."
+  },
+  {
+    "keyword": "Overriding effect of the Act",
+    "aliases": ["supremacy of HMA", "conflict resolution", "legal precedence"],
+    "section": "Section 4 HMA",
+    "content": "This Act overrides any text, rule, or custom inconsistent with its provisions.",
+    "help": "Use this section to assert HMA’s authority over conflicting customs or laws."
+  },
+  {
+    "keyword": "Definition of Hindu",
+    "aliases": ["who is Hindu", "religious identity", "applicability"],
+    "section": "Section 2(1) HMA",
+    "content": "Defines Hindu as anyone practicing Hinduism, Buddhism, Jainism, or Sikhism, or converted to these religions.",
+    "help": "Check religious status before filing under HMA. Converts and re-converts are included."
+  },
+  {
+    "keyword": "Age requirement for marriage",
+    "aliases": ["minimum age", "legal age to marry", "marriage age"],
+    "section": "Section 5(iii) HMA",
+    "content": "Bride must be at least 18 years old and groom at least 21 years old for a valid Hindu marriage.",
+    "help": "Verify age before solemnization. Underage marriage may be voidable or penalized."
+  },
+  {
+    "keyword": "Prohibited degrees of relationship",
+    "aliases": ["close relatives", "marriage restriction", "blood relation"],
+    "section": "Section 5(iv) HMA",
+    "content": "Marriage is invalid if parties are within prohibited degrees of relationship unless custom permits.",
+    "help": "Check family tree and community customs. Violations may lead to annulment."
+  },
+  {
+    "keyword": "Customary ceremonies",
+    "aliases": ["marriage rituals", "traditional marriage", "community customs"],
+    "section": "Section 7(2) HMA",
+    "content": "Where such rites include Saptapadi, the marriage becomes complete and binding when the seventh step is taken.",
+    "help": "Ensure Saptapadi or equivalent custom is followed. This confirms legal solemnization of marriage."
+  },
+  {
+    "keyword": "Prohibition of bigamy",
+    "aliases": ["second marriage", "marriage while married", "bigamy offence"],
+    "section": "Section 17 HMA",
+    "content": "Any Hindu who marries again during the lifetime of their spouse is punishable under Section 494 and 495 of IPC.",
+    "help": "Check marital status before remarriage. Violators face criminal prosecution."
+  },
+  {
+    "keyword": "Jurisdiction of courts",
+    "aliases": ["family court", "where to file", "legal jurisdiction"],
+    "section": "Section 19 HMA",
+    "content": "Petitions under this Act can be filed where marriage was solemnized, parties last resided together, or respondent resides.",
+    "help": "Choose correct court based on residence or marriage location. Jurisdiction affects case validity."
+  },
+  {
+    "keyword": "Counseling and reconciliation",
+    "aliases": ["marriage counseling", "court reconciliation", "settlement efforts"],
+    "section": "Section 23(2) HMA",
+    "content": "Court may attempt reconciliation before granting divorce, especially in mutual consent or contested cases.",
+    "help": "Be prepared for court-directed counseling. It may delay proceedings but can lead to settlement."
+  },
+  {
+    "keyword": "Bar to relief",
+    "aliases": ["no relief", "legal bar", "disqualification"],
+    "section": "Section 23(1) HMA",
+    "content": "Relief may be denied if petitioner is guilty of adultery, cruelty, or collusion, or has delayed filing.",
+    "help": "Ensure clean hands before filing. Delay or misconduct may block relief."
+  },
+  {
+    "keyword": "Decree in proceedings",
+    "aliases": ["court order", "judgment", "marriage decree"],
+    "section": "Section 23A HMA",
+    "content": "Respondent may also seek relief in the same proceeding if grounds exist against the petitioner.",
+    "help": "Both parties can raise claims. Prepare for counter-petitions and cross-examination."
+  },
+  {
+    "keyword": "Power to transfer petitions",
+    "aliases": ["case transfer", "court change", "jurisdiction shift"],
+    "section": "Section 21A HMA",
+    "content": "If both parties file petitions in different courts, they may be transferred and tried together.",
+    "help": "Apply for transfer to avoid parallel proceedings. Helps consolidate evidence and reduce conflict."
+  },
+  {
+    "keyword": "Expeditious trial",
+    "aliases": ["fast divorce", "quick hearing", "speedy resolution"],
+    "section": "Section 21B HMA",
+    "content": "Court should try to conclude divorce proceedings within six months from date of notice.",
+    "help": "Request fast-track hearing if delayed. Helps reduce emotional and financial strain."
+  },
+  {
+    "keyword": "In-camera proceedings",
+    "aliases": ["private hearing", "confidential trial", "closed court"],
+    "section": "Section 22 HMA",
+    "content": "All proceedings under this Act are to be held in-camera unless court directs otherwise.",
+    "help": "Ensures privacy in sensitive matters. Public access is restricted unless permitted."
+  },
+  {
+    "keyword": "Power to make rules",
+    "aliases": ["court rules", "procedural guidelines", "rule making"],
+    "section": "Section 30 HMA",
+    "content": "State Governments may make rules for carrying out the purposes of this Act.",
+    "help": "Check local rules for filing, fees, and procedures. They vary by state."
+  },
+  {
+    "keyword": "Driving licence requirement",
+    "aliases": ["mandatory licence", "driving without licence", "licence rule"],
+    "section": "Section 3 MVA",
+    "content": "No person shall drive a motor vehicle in any public place unless he holds a valid driving licence.",
+    "help": "Ensure licence is valid and appropriate for vehicle type. Driving without it is punishable."
+  },
+  {
+    "keyword": "Minimum age for driving",
+    "aliases": ["driving age", "legal age for licence", "underage driving"],
+    "section": "Section 4 MVA",
+    "content": "Minimum age to drive a motor vehicle is 18 years. For motorcycles without gear, age is 16.",
+    "help": "Verify age before applying for licence. Underage driving leads to penalties and cancellation."
+  },
+  {
+    "keyword": "Learner’s licence",
+    "aliases": ["temporary licence", "learning permit", "learner rules"],
+    "section": "Section 8 MVA",
+    "content": "Learner’s licence is issued for learning purposes with restrictions and validity of 6 months.",
+    "help": "Apply with ID and medical certificate. Must display ‘L’ sign and follow rules."
+  },
+  {
+    "keyword": "Renewal of driving licence",
+    "aliases": ["licence renewal", "expired licence", "renewal process"],
+    "section": "Section 15 MVA",
+    "content": "Driving licence must be renewed within 30 days of expiry to avoid penalty.",
+    "help": "Visit RTO with old licence and medical certificate. Delays may require retesting."
+  },
+  {
+    "keyword": "Suspension or cancellation of licence",
+    "aliases": ["licence revoked", "driving ban", "disqualification"],
+    "section": "Section 19 MVA",
+    "content": "Licensing authority may suspend or cancel licence for misconduct, fraud, or repeated offences.",
+    "help": "Avoid traffic violations. Appeal can be filed against suspension."
+  },
+  {
+    "keyword": "Registration of motor vehicles",
+    "aliases": ["vehicle registration", "RC book", "number plate"],
+    "section": "Section 39 MVA",
+    "content": "No motor vehicle shall be driven in public without registration under this Act.",
+    "help": "Apply at RTO with documents. Driving unregistered vehicle is illegal."
+  },
+  {
+    "keyword": "Transfer of vehicle ownership",
+    "aliases": ["ownership change", "RC transfer", "vehicle sale"],
+    "section": "Section 50 MVA",
+    "content": "Ownership must be transferred within 14 days of sale. Buyer must apply for new registration.",
+    "help": "Submit Form 29 and 30 to RTO. Delay may attract fine or legal issues."
+  },
+  {
+    "keyword": "Insurance of motor vehicles",
+    "aliases": ["vehicle insurance", "third party cover", "mandatory insurance"],
+    "section": "Section 146 MVA",
+    "content": "No vehicle shall be used in public without valid third-party insurance.",
+    "help": "Renew insurance on time. Driving uninsured vehicle is punishable."
+  },
+  {
+    "keyword": "Traffic signs and signals",
+    "aliases": ["road signs", "signal rules", "obey traffic signs"],
+    "section": "Section 119 MVA",
+    "content": "Drivers must obey all traffic signs, signals, and road markings as prescribed.",
+    "help": "Violation leads to fines or licence suspension. Learn signs during licence test."
+  },
+  {
+    "keyword": "Speed limits",
+    "aliases": ["maximum speed", "overspeeding", "speed rule"],
+    "section": "Section 112 MVA",
+    "content": "Central or State Government may prescribe speed limits for different classes of vehicles.",
+    "help": "Follow posted speed limits. Overspeeding attracts fines and points."
+  },
+  {
+    "keyword": "Drunken driving",
+    "aliases": ["alcohol limit", "driving under influence", "DUI"],
+    "section": "Section 185 MVA",
+    "content": "Driving under influence of alcohol or drugs is punishable with fine and/or imprisonment.",
+    "help": "BAC limit is 0.03%. Use breath analyzer. Repeat offence leads to harsher penalty."
+  },
+  {
+    "keyword": "Helmet requirement",
+    "aliases": ["bike helmet", "two-wheeler safety", "helmet law"],
+    "section": "Section 129 MVA",
+    "content": "Every person driving or riding a two-wheeler must wear protective headgear.",
+    "help": "Use ISI-marked helmet. Non-compliance leads to fine and injury risk."
+  },
+  {
+    "keyword": "Seat belt rule",
+    "aliases": ["car seat belt", "passenger safety", "belt law"],
+    "section": "Rule 125 CMVR",
+    "content": "Drivers and front seat passengers must wear seat belts while vehicle is in motion.",
+    "help": "Mandatory in all cars. Violation leads to fine and safety risk."
+  },
+  {
+    "keyword": "Mobile phone usage while driving",
+    "aliases": ["phone ban", "driving distraction", "mobile while driving"],
+    "section": "Rule 21(25) CMVR",
+    "content": "Using mobile phone while driving is considered dangerous driving and punishable.",
+    "help": "Use hands-free only if necessary. Avoid distractions to prevent accidents."
+  },
+  {
+    "keyword": "Driving without permit",
+    "aliases": ["transport permit", "commercial vehicle permit", "no permit"],
+    "section": "Section 66 MVA",
+    "content": "Transport vehicles must have valid permit to operate. Driving without it is illegal.",
+    "help": "Apply for permit based on route and type. Violations attract heavy fines."
+  },
+  {
+    "keyword": "Pollution control certificate",
+    "aliases": ["PUC", "emission test", "pollution certificate"],
+    "section": "Rule 115 CMVR",
+    "content": "All vehicles must carry a valid Pollution Under Control (PUC) certificate.",
+    "help": "Renew PUC regularly. Non-compliance leads to fines and registration issues."
+  },
+  {
+    "keyword": "Obstruction to driver",
+    "aliases": ["blocking driver", "driver distraction", "interference"],
+    "section": "Section 122 MVA",
+    "content": "No person shall obstruct or distract the driver while vehicle is in motion.",
+    "help": "Maintain discipline inside vehicle. Violation may lead to accident or penalty."
+  },
+  {
+    "keyword": "Overloading of vehicles",
+    "aliases": ["excess passengers", "cargo overload", "vehicle capacity"],
+    "section": "Section 113 MVA",
+    "content": "No vehicle shall carry more load than permitted. Overloading is punishable.",
+    "help": "Check load limits. Overloading affects safety and attracts fines."
+  },
+  {
+    "keyword": "Racing and trials",
+    "aliases": ["illegal racing", "road race", "speed trials"],
+    "section": "Section 189 MVA",
+    "content": "Organizing or participating in unauthorized races or trials is punishable.",
+    "help": "Seek permission from authorities. Unauthorized racing leads to imprisonment or fine."
+  },
+  {
+    "keyword": "Accident reporting",
+    "aliases": ["report accident", "inform police", "hit and run"],
+    "section": "Section 134 MVA",
+    "content": "Driver involved in accident must report to police and assist injured persons.",
+    "help": "Stay at scene, call emergency services, and cooperate with investigation."
+  },
+
+  {
+    "keyword": "Driving without registration",
+    "aliases": ["unregistered vehicle", "no RC", "registration violation"],
+    "section": "Section 192 MVA",
+    "content": "Driving a motor vehicle without registration or using a vehicle with suspended registration is punishable with fine or imprisonment.",
+    "help": "Always carry valid RC. Renew expired registration to avoid penalty."
+  },
+  {
+    "keyword": "Driving without insurance",
+    "aliases": ["no insurance", "uninsured vehicle", "third party cover"],
+    "section": "Section 196 MVA",
+    "content": "Driving without valid third-party insurance is a punishable offence under this section.",
+    "help": "Renew insurance before expiry. Keep policy copy in vehicle."
+  },
+  {
+    "keyword": "Driving without permit",
+    "aliases": ["transport permit", "commercial vehicle", "permit violation"],
+    "section": "Section 192A MVA",
+    "content": "Using a transport vehicle without a valid permit is punishable with fine up to ₹10,000.",
+    "help": "Apply for route-specific permit. Carry permit copy while driving."
+  },
+  {
+    "keyword": "Dangerous driving",
+    "aliases": ["rash driving", "reckless driving", "speeding"],
+    "section": "Section 184 MVA",
+    "content": "Driving in a manner dangerous to the public is punishable with fine and/or imprisonment.",
+    "help": "Avoid overspeeding, zigzag driving, or stunts. Follow lane discipline."
+  },
+  {
+    "keyword": "Obstructing emergency vehicles",
+    "aliases": ["ambulance blockage", "fire truck obstruction", "emergency access"],
+    "section": "Rule 108 CMVR",
+    "content": "Drivers must give way to emergency vehicles with sirens or flashing lights.",
+    "help": "Move to left and stop if needed. Blocking emergency vehicles is punishable."
+  },
+  {
+    "keyword": "Use of horn",
+    "aliases": ["horn misuse", "no honking zone", "sound pollution"],
+    "section": "Rule 119 CMVR",
+    "content": "Use of horn is restricted in silence zones and must not be continuous or harsh.",
+    "help": "Avoid honking near hospitals, schools, or courts. Violation leads to fine."
+  },
+  {
+    "keyword": "Vehicle fitness certificate",
+    "aliases": ["FC", "roadworthiness", "fitness test"],
+    "section": "Section 56 MVA",
+    "content": "Transport vehicles must carry a valid fitness certificate to operate legally.",
+    "help": "Renew FC periodically. Driving without it may lead to seizure or fine."
+  },
+  {
+    "keyword": "Tampering with number plates",
+    "aliases": ["fake number plate", "plate modification", "illegal registration"],
+    "section": "Section 192 MVA",
+    "content": "Using tampered, fake, or obscured number plates is punishable under this section.",
+    "help": "Use standard HSRP plates. Avoid stickers or covers that hide numbers."
+  },
+  {
+    "keyword": "Overtaking rules",
+    "aliases": ["wrong overtaking", "lane change", "passing vehicles"],
+    "section": "Rule 6 CMVR",
+    "content": "Overtaking must be done from the right side and only when safe and permitted.",
+    "help": "Use indicators and mirrors. Avoid overtaking near curves or junctions."
+  },
+  {
+    "keyword": "Use of safety glass",
+    "aliases": ["windshield safety", "tempered glass", "vehicle glass standards"],
+    "section": "Rule 100 CMVR",
+    "content": "Motor vehicles must use safety glass conforming to BIS standards for windshields and windows.",
+    "help": "Avoid tinted or cracked glass. Replace damaged glass to ensure visibility and safety."
+  },
+  {
+    "keyword": "Definition of rape",
+    "aliases": ["rape meaning", "sexual assault", "IPC 375"],
+    "section": "Section 375 IPC",
+    "content": "Defines rape as sexual intercourse without consent, including penetration under coercion, deception, or incapacity.",
+    "help": "Used to determine if sexual act qualifies as rape. Consent must be free, informed, and voluntary."
+  },
+  {
+    "keyword": "Punishment for rape",
+    "aliases": ["rape penalty", "IPC 376", "rape imprisonment"],
+    "section": "Section 376 IPC",
+    "content": "Prescribes punishment for rape — minimum 10 years, extendable to life imprisonment.",
+    "help": "Used in trial and sentencing. Aggravating factors increase punishment."
+  },
+  {
+    "keyword": "Rape of minor",
+    "aliases": ["child rape", "POCSO rape", "underage victim"],
+    "section": "Section 5 POCSO",
+    "content": "Defines aggravated penetrative sexual assault on children below 12 or by authority figures.",
+    "help": "Used for harsher punishment. Mandatory reporting required."
+  },
+  {
+    "keyword": "Sexual harassment",
+    "aliases": ["harassment", "IPC 354A", "unwelcome sexual advances"],
+    "section": "Section 354A IPC",
+    "content": "Defines sexual harassment including physical contact, demand for sexual favors, and showing pornography.",
+    "help": "Used in workplace and public complaints. Cognizable offence."
+  },
+  {
+    "keyword": "Voyeurism",
+    "aliases": ["watching private act", "IPC 354C", "privacy violation"],
+    "section": "Section 354C IPC",
+    "content": "Watching or capturing images of a woman engaging in a private act without consent.",
+    "help": "Punishable with imprisonment. Repeat offence leads to higher penalty."
+  },
+  {
+    "keyword": "Stalking",
+    "aliases": ["following woman", "IPC 354D", "online stalking"],
+    "section": "Section 354D IPC",
+    "content": "Repeatedly following or contacting a woman despite clear disinterest.",
+    "help": "Includes cyberstalking. First offence is bailable, second is non-bailable."
+  },
+  {
+    "keyword": "Outraging modesty",
+    "aliases": ["molestation", "IPC 354", "indecent assault"],
+    "section": "Section 354 IPC",
+    "content": "Assault or criminal force used to outrage modesty of a woman.",
+    "help": "Used in molestation cases. Intent and physical act required."
+  },
+  {
+    "keyword": "Unnatural offences",
+    "aliases": ["sodomy", "IPC 377", "non-consensual acts"],
+    "section": "Section 377 IPC",
+    "content": "Previously criminalized non-penile-vaginal intercourse; now applies only to non-consensual acts.",
+    "help": "Used in cases of sexual violence irrespective of gender."
+  },
+  {
+    "keyword": "Consent definition",
+    "aliases": ["valid consent", "sexual consent", "IPC 375 explanation"],
+    "section": "Explanation 2 to Section 375 IPC",
+    "content": "Consent means unequivocal voluntary agreement communicated through words or conduct.",
+    "help": "Silence or lack of resistance is not consent. Must be active and informed."
+  },
+  {
+    "keyword": "Rape by husband during separation",
+    "aliases": ["marital rape", "IPC 376B", "forced sex"],
+    "section": "Section 376B IPC",
+    "content": "Sexual intercourse by husband with wife during judicial separation without consent.",
+    "help": "Punishable with imprisonment up to 2 years. Applies only during separation."
+  },
+  {
+    "keyword": "Gang rape",
+    "aliases": ["group sexual assault", "IPC 376D", "multiple offenders"],
+    "section": "Section 376D IPC",
+    "content": "Defines gang rape and prescribes punishment of minimum 20 years to life.",
+    "help": "Used when rape is committed by multiple persons acting together."
+  },
+  {
+    "keyword": "Custodial rape",
+    "aliases": ["rape in custody", "IPC 376(2)", "authority abuse"],
+    "section": "Section 376(2) IPC",
+    "content": "Rape by police, public servant, jail staff, or hospital staff in position of trust.",
+    "help": "Punishment is rigorous imprisonment not less than 10 years."
+  },
+  {
+    "keyword": "Rape of disabled woman",
+    "aliases": ["rape of vulnerable", "IPC 376(2)(l)", "special protection"],
+    "section": "Section 376(2)(l) IPC",
+    "content": "Rape of woman suffering from mental or physical disability.",
+    "help": "Used for enhanced punishment. Victim support services mandatory."
+  },
+  {
+    "keyword": "Rape causing death or vegetative state",
+    "aliases": ["fatal rape", "IPC 376A", "extreme rape cases"],
+    "section": "Section 376A IPC",
+    "content": "Rape resulting in death or persistent vegetative state of victim.",
+    "help": "Punishable with death or life imprisonment. Used in brutal cases."
+  },
+  {
+    "keyword": "False promise to marry",
+    "aliases": ["deceptive sex", "IPC 417", "cheating"],
+    "section": "Section 417 IPC",
+    "content": "Sexual intercourse under false promise of marriage may be prosecuted as cheating.",
+    "help": "Used when intent to marry was absent from beginning. Needs proof of deception."
+  },
+  {
+    "keyword": "Sexual offences against children",
+    "aliases": ["POCSO Act", "child abuse", "minor protection"],
+    "section": "Section 3 POCSO",
+    "content": "Defines penetrative sexual assault against children below 18 years.",
+    "help": "Mandatory reporting required. Special courts handle POCSO cases."
+  },
+  {
+    "keyword": "Sexual assault under POCSO",
+    "aliases": ["non-penetrative abuse", "child molestation", "POCSO 7"],
+    "section": "Section 7 POCSO",
+    "content": "Touching or physical contact with sexual intent without penetration.",
+    "help": "Used for molestation cases involving minors. Punishable under Section 8."
+  },
+  {
+    "keyword": "Use of child for pornography",
+    "aliases": ["child porn", "POCSO 13", "sexual exploitation"],
+    "section": "Section 13 POCSO",
+    "content": "Using child for pornographic purposes is punishable under POCSO.",
+    "help": "Includes production, distribution, or possession. Punishment under Section 14."
+  },
+  {
+    "keyword": "Mandatory reporting of child abuse",
+    "aliases": ["reporting obligation", "POCSO 19", "failure to report"],
+    "section": "Section 19 POCSO",
+    "content": "Any person aware of child sexual offence must report to police.",
+    "help": "Failure to report is punishable. Applies to teachers, doctors, parents."
+  },
+  {
+    "keyword": "Protection of victim identity",
+    "aliases": ["rape victim privacy", "IPC 228A", "media restriction"],
+    "section": "Section 228A IPC",
+    "content": "Disclosing identity of rape victim is punishable with imprisonment.",
+    "help": "Media and individuals must avoid naming victim. Court may permit disclosure."
+  },
+  {
+    "keyword": "Medical examination of rape victim",
+    "aliases": ["rape medical test", "evidence collection", "CrPC 164A"],
+    "section": "Section 164A CrPC",
+    "content": "Victim must be medically examined within 24 hours of police request.",
+    "help": "Used to collect forensic evidence. Consent of victim required."
+  },
+  {
+    "keyword": "Trial of rape cases",
+    "aliases": ["fast track trial", "rape court", "CrPC 327"],
+    "section": "Section 327 CrPC",
+    "content": "Rape trials must be conducted in-camera and preferably by female judge.",
+    "help": "Ensures privacy and sensitivity. Public excluded from courtroom."
+  },
+  {
+    "keyword": "Compensation to rape victims",
+    "aliases": ["victim support", "financial aid", "NLSA scheme"],
+    "section": "Section 357A CrPC",
+    "content": "Victims of rape are entitled to compensation from State Legal Services Authority.",
+    "help": "Apply through court or legal aid. Amount varies by case severity."
+  },
+  {
+    "keyword": "Attempt to commit rape",
+    "aliases": ["rape attempt", "IPC 511", "unsuccessful rape"],
+    "section": "Section 511 IPC",
+    "content": "Attempt to commit rape is punishable even if act not completed.",
+    "help": "Apply through court or legal aid. Amount varies by case severity."
+  },
+  {
+    "keyword": "Definition of food business operator",
+    "aliases": ["FBO meaning", "who is FBO", "food seller"],
+    "section": "Section 3(e) FSS Act",
+    "content": "Food business operator means a person who owns or operates a food business and is responsible for ensuring compliance.",
+    "help": "Includes shopkeepers, vendors, distributors, and retailers. Must follow FSSAI rules."
+  },
+  {
+    "keyword": "Requirement of licence or registration",
+    "aliases": ["FSSAI licence", "food shop registration", "mandatory licence"],
+    "section": "Section 31 FSS Act",
+    "content": "No person shall commence or carry on any food business without obtaining a licence or registration from the Food Safety Authority.",
+    "help": "Apply online via FSSAI portal. Penalty for operating without licence."
+  },
+  {
+    "keyword": "General hygiene and sanitary practices",
+    "aliases": ["clean shop", "food hygiene", "sanitation rules"],
+    "section": "Schedule 4 FSS (Licensing & Registration) Regulations",
+    "content": "Retailers must maintain clean premises, pest control, safe water, and proper waste disposal.",
+    "help": "Inspect shop regularly. Non-compliance leads to suspension or cancellation of licence."
+  },
+  {
+    "keyword": "Food labeling standards",
+    "aliases": ["label rules", "ingredient list", "expiry date"],
+    "section": "FSS (Packaging & Labeling) Regulations",
+    "content": "Packaged food must display name, ingredients, net quantity, manufacturer details, expiry date, and FSSAI logo.",
+    "help": "Check labels before selling. Mislabeling attracts penalties."
+  },
+  {
+    "keyword": "Prohibition of sale of unsafe food",
+    "aliases": ["adulterated food", "expired food", "harmful items"],
+    "section": "Section 26(2)(i) FSS Act",
+    "content": "No food business operator shall sell food that is unsafe, sub-standard, or misbranded.",
+    "help": "Inspect stock regularly. Remove expired or damaged items."
+  },
+  {
+    "keyword": "Recall of unsafe food",
+    "aliases": ["product recall", "unsafe batch", "consumer safety"],
+    "section": "Section 28 FSS Act",
+    "content": "FBOs must recall food from market if found unsafe and inform authorities and consumers.",
+    "help": "Maintain batch records. Cooperate with FSSAI during recall."
+  },
+  {
+    "keyword": "Penalty for selling unsafe food",
+    "aliases": ["fine for bad food", "legal action", "consumer harm"],
+    "section": "Section 59 FSS Act",
+    "content": "Selling unsafe food may lead to imprisonment up to 6 years and fine up to ₹5 lakh.",
+    "help": "Avoid sourcing from unreliable suppliers. Keep invoices and quality checks."
+  },
+  {
+    "keyword": "Penalty for misbranded food",
+    "aliases": ["wrong label", "false claims", "branding violation"],
+    "section": "Section 52 FSS Act",
+    "content": "Selling misbranded food attracts fine up to ₹3 lakh.",
+    "help": "Verify packaging and claims. Avoid misleading labels."
+  },
+  {
+    "keyword": "Display of FSSAI licence",
+    "aliases": ["show licence", "shop compliance", "consumer awareness"],
+    "section": "Rule 2.1.14 FSS (Licensing & Registration) Regulations",
+    "content": "FBOs must prominently display their FSSAI licence at the place of business.",
+    "help": "Print and frame licence near billing counter. Builds consumer trust."
+  },
+  {
+    "keyword": "Annual return filing",
+    "aliases": ["FSSAI return", "compliance filing", "business report"],
+    "section": "Rule 2.1.13 FSS (Licensing & Registration) Regulations",
+    "content": "Licensed FBOs must file annual returns detailing quantity and type of food handled.",
+    "help": "File online before May 31 each year. Late filing attracts penalty."
+  },
+  {
+    "keyword": "Responsibility of food distributor",
+    "aliases": ["wholesaler rules", "retail chain", "supply chain"],
+    "section": "Section 26(3) FSS Act",
+    "content": "Distributors must ensure food is stored, transported, and handled safely.",
+    "help": "Use clean vehicles and proper temperature control. Keep delivery records."
+  },
+  {
+    "keyword": "Consumer grievance redressal",
+    "aliases": ["complaint handling", "customer feedback", "issue resolution"],
+    "section": "Section 39 FSS Act",
+    "content": "Consumers may file complaints with Food Safety Authority. FBOs must cooperate in investigation.",
+    "help": "Maintain complaint register. Resolve issues promptly."
+  },
+  {
+    "keyword": "Sampling and inspection",
+    "aliases": ["food inspector", "sample collection", "quality check"],
+    "section": "Section 38 FSS Act",
+    "content": "Food Safety Officers may inspect premises and collect samples for testing.",
+    "help": "Cooperate during inspection. Keep premises and records ready."
+  },
+  {
+    "keyword": "Traceability and record keeping",
+    "aliases": ["batch tracking", "supplier records", "food trace"],
+    "section": "Section 28(5) FSS Act",
+    "content": "FBOs must maintain records to trace food origin and distribution.",
+    "help": "Keep invoices, supplier details, and batch numbers for each product."
+  },
+  {
+    "keyword": "Ban on tobacco and nicotine in food",
+    "aliases": ["gutka ban", "tobacco in food", "nicotine products"],
+    "section": "Regulation 2.3.4 FSS (Prohibition & Restrictions) Regulations",
+    "content": "Use of tobacco and nicotine as ingredients in food is prohibited.",
+    "help": "Do not stock gutka or similar products. Violations attract heavy penalties."
+  },
+  {
+    "keyword": "Responsibility of shopkeeper to verify supplier licence",
+    "aliases": ["supplier FSSAI", "source verification", "legal sourcing"],
+    "section": "Section 26(2)(iii) FSS Act",
+    "content": "Retailers must ensure suppliers are licensed and compliant with FSSAI norms.",
+    "help": "Buy only from registered vendors. Keep supplier licence copies."
+  },
+  {
+    "keyword": "Penalty for unhygienic conditions",
+    "aliases": ["dirty shop", "filthy premises", "sanitation fine"],
+    "section": "Section 56 FSS Act",
+    "content": "Unhygienic or unsanitary conditions attract fine up to ₹1 lakh.",
+    "help": "Clean daily. Use pest control and proper waste bins."
+  },
+  {
+    "keyword": "Food additives and standards",
+    "aliases": ["preservatives", "coloring agents", "ingredient rules"],
+    "section": "FSS (Food Product Standards & Additives) Regulations",
+    "content": "Only permitted additives may be used in food. Limits are prescribed for each category.",
+    "help": "Check additive list before stocking. Avoid banned substances."
+  },
+  {
+    "keyword": "Cold chain maintenance",
+    "aliases": ["refrigeration", "frozen food", "temperature control"],
+    "section": "Schedule 4 Part V FSS Regulations",
+    "content": "Perishable food must be stored and transported under prescribed temperature conditions.",
+    "help": "Use fridge or freezer. Monitor temperature logs."
+  },
+  {
+    "keyword": "Training for food handlers",
+    "aliases": ["staff training", "food safety course", "hygiene education"],
+    "section": "Section 16(3)(h) FSS Act",
+    "content": "FSSAI may mandate training for food handlers to ensure safety awareness.",
+    "help": "Enroll staff in FoSTaC or other certified programs. Keep training records."
+  },
+  {
+    "keyword": "Penalty for misleading advertisement",
+    "aliases": ["false food ad", "deceptive claims", "advertisement violation"],
+    "section": "Section 53 FSS Act",
+    "content": "Any misleading advertisement about food quality, nature, or substance is punishable with fine up to ₹10 lakh.",
+    "help": "Verify claims before promoting products. Avoid exaggeration or false health benefits."
+  },
+  {
+    "keyword": "Ban on sale near educational institutions",
+    "aliases": ["junk food ban", "school zone restriction", "food sale near schools"],
+    "section": "FSSAI Guidelines 2020",
+    "content": "Sale of HFSS (High Fat, Sugar, Salt) foods is restricted within 50 meters of school premises.",
+    "help": "Avoid stocking chips, sugary drinks near schools. Follow local enforcement notices."
+  },
+  {
+    "keyword": "Responsibility for imported food",
+    "aliases": ["foreign food rules", "imported item compliance", "non-domestic food"],
+    "section": "Section 25 FSS Act",
+    "content": "Imported food must meet Indian standards and be cleared by FSSAI before sale.",
+    "help": "Check importer's licence and clearance. Avoid stocking unverified foreign products."
+  },
+  {
+    "keyword": "Penalty for sub-standard food",
+    "aliases": ["low quality food", "below standard", "quality violation"],
+    "section": "Section 57 FSS Act",
+    "content": "Selling sub-standard food attracts fine up to ₹5 lakh.",
+    "help": "Check product quality and expiry. Avoid damaged or improperly stored items."
+  },
+  {
+    "keyword": "Penalty for extraneous matter",
+    "aliases": ["foreign particles", "contaminated food", "impurity"],
+    "section": "Section 58 FSS Act",
+    "content": "Presence of extraneous matter in food (e.g., stones, insects) attracts fine up to ₹1 lakh.",
+    "help": "Inspect packaged goods. Return contaminated batches to supplier."
+  },
+  {
+    "keyword": "Food recall procedure",
+    "aliases": ["unsafe batch recall", "product withdrawal", "consumer alert"],
+    "section": "FSS (Food Recall Procedure) Regulations, 2017",
+    "content": "FBOs must initiate recall if food is unsafe or misbranded and inform consumers and authorities.",
+    "help": "Maintain batch records. Cooperate with FSSAI during recall process."
+  },
+  {
+    "keyword": "Use of recycled packaging material",
+    "aliases": ["packaging safety", "reused container", "food contact material"],
+    "section": "Regulation 4(1) FSS (Packaging) Regulations, 2018",
+    "content": "Recycled plastic or newspaper must not be used for packing or serving food.",
+    "help": "Use food-grade containers. Avoid wrapping in printed paper or reused plastic."
+  },
+  {
+    "keyword": "Responsibility for food transport",
+    "aliases": ["delivery hygiene", "vehicle cleanliness", "cold chain"],
+    "section": "Schedule 4 Part V FSS Regulations",
+    "content": "Food must be transported in clean, temperature-controlled vehicles to prevent contamination.",
+    "help": "Use insulated carriers. Avoid mixing raw and cooked items."
+  },
+  {
+    "keyword": "Penalty for obstructing Food Safety Officer",
+    "aliases": ["inspection refusal", "non-cooperation", "legal obstruction"],
+    "section": "Section 60 FSS Act",
+    "content": "Obstructing or intimidating a Food Safety Officer during duty is punishable with imprisonment up to 3 months and fine.",
+    "help": "Cooperate during inspections. Provide documents and samples when asked."
+  },
+  {
+    "keyword": "Mandatory display of consumer helpline",
+    "aliases": ["complaint number", "customer support", "feedback contact"],
+    "section": "FSSAI Advisory 2019",
+    "content": "Packaged food must display consumer helpline number or email for grievance redressal.",
+    "help": "Ensure packaging includes contact info. Helps build trust and resolve issues."
+  },
+  {
+    "keyword": "Right to Equality",
+    "aliases": ["equal treatment", "non-discrimination", "Article 14"],
+    "section": "Article 14 Constitution",
+    "content": "Guarantees equality before law and equal protection of laws to all persons within Indian territory.",
+    "help": "Used to challenge discriminatory laws or actions. Applies to citizens and non-citizens."
+  },
+  {
+    "keyword": "Prohibition of discrimination",
+    "aliases": ["Article 15", "discrimination ban", "equal rights"],
+    "section": "Article 15 Constitution",
+    "content": "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth.",
+    "help": "Used in cases of biased treatment in education, employment, or public services."
+  },
+  {
+    "keyword": "Equality of opportunity in public employment",
+    "aliases": ["Article 16", "job equality", "reservation"],
+    "section": "Article 16 Constitution",
+    "content": "Provides equal opportunity in public employment and allows reservation for disadvantaged groups.",
+    "help": "Used to enforce fair recruitment and challenge exclusionary practices."
+  },
+  {
+    "keyword": "Right to life and personal liberty",
+    "aliases": ["Article 21", "life protection", "freedom from arbitrary arrest"],
+    "section": "Article 21 Constitution",
+    "content": "No person shall be deprived of life or personal liberty except according to procedure established by law.",
+    "help": "Used in cases of police abuse, custodial death, and privacy violations."
+  },
+  {
+    "keyword": "Protection against arrest and detention",
+    "aliases": ["Article 22", "legal safeguards", "detention rights"],
+    "section": "Article 22 Constitution",
+    "content": "Provides rights of arrested persons including legal counsel, production before magistrate, and limits on preventive detention.",
+    "help": "Used to challenge illegal detention and demand fair trial."
+  },
+  {
+    "keyword": "Freedom of speech and expression",
+    "aliases": ["Article 19(1)(a)", "free speech", "press freedom"],
+    "section": "Article 19(1)(a) Constitution",
+    "content": "All citizens have the right to freedom of speech and expression.",
+    "help": "Used to protect media, protest, and artistic expression. Subject to reasonable restrictions."
+  },
+  {
+    "keyword": "Freedom of religion",
+    "aliases": ["Article 25", "religious liberty", "faith rights"],
+    "section": "Article 25 Constitution",
+    "content": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion.",
+    "help": "Used to protect religious minorities and challenge forced conversions."
+  },
+  {
+    "keyword": "Right to education",
+    "aliases": ["Article 21A", "free education", "school access"],
+    "section": "Article 21A Constitution",
+    "content": "Provides free and compulsory education to children aged 6 to 14 years.",
+    "help": "Used to enforce school enrollment and challenge denial of access."
+  },
+  {
+    "keyword": "Abolition of untouchability",
+    "aliases": ["Article 17", "caste discrimination", "social equality"],
+    "section": "Article 17 Constitution",
+    "content": "Untouchability is abolished and its practice in any form is forbidden.",
+    "help": "Used to prosecute caste-based exclusion and violence."
+  },
+  {
+    "keyword": "Prohibition of human trafficking and forced labor",
+    "aliases": ["Article 23", "bonded labor", "trafficking ban"],
+    "section": "Article 23 Constitution",
+    "content": "Prohibits human trafficking, begar, and forced labor.",
+    "help": "Used to rescue victims and prosecute exploiters."
+  },
+  {
+    "keyword": "Right to constitutional remedies",
+    "aliases": ["Article 32", "Supreme Court petition", "fundamental rights enforcement"],
+    "section": "Article 32 Constitution",
+    "content": "Allows individuals to approach the Supreme Court for enforcement of fundamental rights.",
+    "help": "Used to file writ petitions like habeas corpus, mandamus, etc."
+  },
+  {
+    "keyword": "Right to privacy",
+    "aliases": ["informational privacy", "bodily autonomy", "Aadhaar case"],
+    "section": "Article 21 (as interpreted)",
+    "content": "Recognized as a fundamental right under Article 21 by Supreme Court in 2017.",
+    "help": "Used to challenge surveillance, data misuse, and bodily violations."
+  },
+  {
+    "keyword": "Protection of children from sexual offences",
+    "aliases": ["POCSO Act", "child rights", "sexual abuse law"],
+    "section": "POCSO Act, 2012",
+    "content": "Provides protection to children from sexual assault, harassment, and pornography.",
+    "help": "Used to prosecute offenders and ensure child-friendly procedures."
+  },
+  {
+    "keyword": "Protection of women from domestic violence",
+    "aliases": ["DV Act", "women safety", "home abuse"],
+    "section": "Protection of Women from Domestic Violence Act, 2005",
+    "content": "Provides civil remedies and protection orders for women facing domestic abuse.",
+    "help": "Used to seek residence, maintenance, and protection from abuser."
+  },
+  {
+    "keyword": "Rights of persons with disabilities",
+    "aliases": ["RPWD Act", "disability rights", "accessibility"],
+    "section": "Rights of Persons with Disabilities Act, 2016",
+    "content": "Ensures equality, dignity, and access for persons with disabilities.",
+    "help": "Used to demand inclusive education, employment, and barrier-free access."
+  },
+  {
+    "keyword": "Right to work and livelihood",
+    "aliases": ["employment rights", "job security", "Article 21"],
+    "section": "Article 21 (expanded interpretation)",
+    "content": "Right to livelihood is part of right to life under Article 21.",
+    "help": "Used to challenge arbitrary dismissal or eviction affecting livelihood."
+  },
+  {
+    "keyword": "Right to clean environment",
+    "aliases": ["environmental rights", "pollution control", "Article 21"],
+    "section": "Article 21 (expanded)",
+    "content": "Right to life includes right to clean air, water, and environment.",
+    "help": "Used in PILs against industrial pollution and deforestation."
+  },
+  {
+    "keyword": "Right to health",
+    "aliases": ["medical access", "public health", "Article 21"],
+    "section": "Article 21 (expanded)",
+    "content": "Right to health is part of right to life and includes access to medical care.",
+    "help": "Used to demand hospital access, medicine, and emergency services."
+  },
+  {
+    "keyword": "Right to shelter",
+    "aliases": ["housing rights", "eviction protection", "Article 21"],
+    "section": "Article 21 (expanded)",
+    "content": "Right to shelter is part of right to life and includes protection from forced eviction.",
+    "help": "Used in slum clearance and rehabilitation cases."
+  },
+  {
+    "keyword": "National Human Rights Commission",
+    "aliases": ["NHRC", "human rights watchdog", "complaint body"],
+    "section": "Protection of Human Rights Act, 1993",
+    "content": "Establishes NHRC to investigate human rights violations and recommend action.",
+    "help": "File complaints for custodial abuse, discrimination, or denial of rights."
+  },
+  {
+    "keyword": "Right against exploitation",
+    "aliases": ["forced labor", "human trafficking", "Article 23"],
+    "section": "Article 23 Constitution",
+    "content": "Prohibits human trafficking, forced labor, and begar. Any contravention is punishable by law.",
+    "help": "Used to protect vulnerable workers and prosecute exploiters."
+  },
+  {
+    "keyword": "Right to form associations",
+    "aliases": ["union rights", "freedom of association", "Article 19(1)(c)"],
+    "section": "Article 19(1)(c) Constitution",
+    "content": "All citizens have the right to form associations or unions or cooperative societies.",
+    "help": "Used to protect labor unions, student groups, and civil society organizations."
+  },
+  {
+    "keyword": "Right to move freely",
+    "aliases": ["freedom of movement", "travel rights", "Article 19(1)(d)"],
+    "section": "Article 19(1)(d) Constitution",
+    "content": "Citizens have the right to move freely throughout the territory of India.",
+    "help": "Used to challenge curfews, travel bans, or movement restrictions."
+  },
+  {
+    "keyword": "Right to reside and settle",
+    "aliases": ["housing freedom", "Article 19(1)(e)", "settlement rights"],
+    "section": "Article 19(1)(e) Constitution",
+    "content": "Citizens have the right to reside and settle in any part of India.",
+    "help": "Used in cases of forced eviction or denial of residence."
+  },
+  {
+    "keyword": "Right to practice any profession",
+    "aliases": ["employment freedom", "business rights", "Article 19(1)(g)"],
+    "section": "Article 19(1)(g) Constitution",
+    "content": "Citizens have the right to practice any profession or carry on any occupation, trade or business.",
+    "help": "Used to challenge arbitrary bans or licensing restrictions."
+  },
+  {
+    "keyword": "Right to fair trial",
+    "aliases": ["legal process", "judicial fairness", "Article 21"],
+    "section": "Article 21 Constitution (expanded)",
+    "content": "Right to life includes right to fair trial, legal representation, and impartial hearing.",
+    "help": "Used in criminal and civil cases to ensure due process."
+  },
+  {
+    "keyword": "Right to legal aid",
+    "aliases": ["free lawyer", "legal assistance", "poor litigant"],
+    "section": "Section 12 Legal Services Authorities Act, 1987",
+    "content": "Provides free legal aid to eligible persons including women, children, SC/ST, and poor litigants.",
+    "help": "Apply through District Legal Services Authority. Helps access justice."
+  },
+  {
+    "keyword": "Protection of transgender persons",
+    "aliases": ["trans rights", "gender identity", "Transgender Act"],
+    "section": "Transgender Persons (Protection of Rights) Act, 2019",
+    "content": "Prohibits discrimination against transgender persons and ensures access to education, employment, and healthcare.",
+    "help": "Used to demand equal treatment and identity recognition."
+  },
+  {
+    "keyword": "Protection of senior citizens",
+    "aliases": ["elder rights", "maintenance law", "senior care"],
+    "section": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+    "content": "Mandates children or heirs to provide maintenance to senior citizens and parents.",
+    "help": "Used to claim financial support and protection from neglect."
+  },
+  {
+    "keyword": "Right to information",
+    "aliases": ["RTI Act", "government transparency", "public access"],
+    "section": "Right to Information Act, 2005",
+    "content": "Empowers citizens to seek information from public authorities to promote transparency and accountability.",
+    "help": "File RTI application to access government records and decisions."
+  },
+  {
+    "keyword": "Minimum Wages",
+    "aliases": ["minimum salary", "wage floor", "basic pay"],
+    "section": "Minimum Wages Act, 1948",
+    "content": "Ensures workers receive minimum wages fixed by the government for scheduled employment.",
+    "help": "Check state-wise wage notifications. Employers must pay at least the notified minimum."
+  },
+  {
+    "keyword": "Payment of Wages",
+    "aliases": ["salary timing", "wage disbursement", "pay rules"],
+    "section": "Payment of Wages Act, 1936",
+    "content": "Regulates timely payment of wages without unauthorized deductions.",
+    "help": "Wages must be paid monthly or weekly. Deductions only as per law."
+  },
+  {
+    "keyword": "Equal Remuneration",
+    "aliases": ["gender pay equality", "equal salary", "non-discrimination"],
+    "section": "Equal Remuneration Act, 1976",
+    "content": "Mandates equal pay for men and women for same work or work of similar nature.",
+    "help": "Used to challenge gender-based wage gaps. Applies to all sectors."
+  },
+  {
+    "keyword": "Industrial Disputes",
+    "aliases": ["worker conflict", "strike rules", "retrenchment"],
+    "section": "Industrial Disputes Act, 1947",
+    "content": "Provides mechanism for resolution of disputes between employers and workers.",
+    "help": "Used in layoffs, strikes, and closure cases. Labour courts handle disputes."
+  },
+  {
+    "keyword": "Factories Act",
+    "aliases": ["factory safety", "working hours", "health standards"],
+    "section": "Factories Act, 1948",
+    "content": "Regulates working conditions in factories including safety, health, and welfare.",
+    "help": "Applies to premises with 10+ workers using power. Inspectors enforce compliance."
+  },
+  {
+    "keyword": "Maternity Benefit",
+    "aliases": ["pregnancy leave", "women workers", "childbirth leave"],
+    "section": "Maternity Benefit Act, 1961",
+    "content": "Provides paid maternity leave and safeguards employment during pregnancy.",
+    "help": "26 weeks leave for eligible women. No dismissal during maternity period."
+  },
+  {
+    "keyword": "Employees’ Provident Fund",
+    "aliases": ["EPF", "retirement savings", "PF contribution"],
+    "section": "Employees’ Provident Funds and Miscellaneous Provisions Act, 1952",
+    "content": "Mandates savings scheme for retirement through employer-employee contributions.",
+    "help": "Applicable to establishments with 20+ employees. Monthly deductions required."
+  },
+  {
+    "keyword": "Employees’ State Insurance",
+    "aliases": ["ESI", "medical benefits", "worker insurance"],
+    "section": "Employees’ State Insurance Act, 1948",
+    "content": "Provides health insurance and cash benefits to workers in case of sickness, maternity, or injury.",
+    "help": "Applies to establishments with 10+ employees. Contributions shared by employer and employee."
+  },
+  {
+    "keyword": "Contract Labour Regulation",
+    "aliases": ["contract workers", "third-party labour", "outsourced staff"],
+    "section": "Contract Labour (Regulation and Abolition) Act, 1970",
+    "content": "Regulates employment of contract labour and ensures welfare provisions.",
+    "help": "Principal employer must ensure wages and facilities. Registration required."
+  },
+  {
+    "keyword": "Child Labour Prohibition",
+    "aliases": ["underage workers", "child employment ban", "juvenile protection"],
+    "section": "Child Labour (Prohibition and Regulation) Act, 1986",
+    "content": "Prohibits employment of children below 14 in hazardous occupations.",
+    "help": "Used to rescue and rehabilitate child workers. Offenders face penalties."
+  },
+  {
+    "keyword": "Occupational Safety, Health and Working Conditions",
+    "aliases": ["OSH Code", "worker safety", "labour code"],
+    "section": "Occupational Safety, Health and Working Conditions Code, 2020",
+    "content": "Consolidates laws related to safety, health, and working conditions of workers.",
+    "help": "Applies to all establishments. Includes migrant workers and gig economy."
+  },
+  {
+    "keyword": "Code on Wages",
+    "aliases": ["wage code", "salary rules", "labour reforms"],
+    "section": "Code on Wages, 2019",
+    "content": "Combines laws on minimum wages, payment of wages, bonus, and equal remuneration.",
+    "help": "Applies to all employees. Simplifies compliance and enforcement."
+  },
+  {
+    "keyword": "Social Security Code",
+    "aliases": ["labour welfare", "retirement benefits", "insurance"],
+    "section": "Code on Social Security, 2020",
+    "content": "Consolidates laws on provident fund, ESI, gratuity, maternity, and gig worker benefits.",
+    "help": "Covers formal and informal workers. Enables universal social protection."
+  },
+  {
+    "keyword": "Trade Unions",
+    "aliases": ["worker union", "collective bargaining", "labour rights"],
+    "section": "Trade Unions Act, 1926",
+    "content": "Provides for registration and rights of trade unions to represent workers.",
+    "help": "Used to organize workers and negotiate with employers."
+  },
+  {
+    "keyword": "Payment of Bonus",
+    "aliases": ["annual bonus", "profit sharing", "employee incentive"],
+    "section": "Payment of Bonus Act, 1965",
+    "content": "Mandates annual bonus to employees based on profits or productivity.",
+    "help": "Applicable to establishments with 20+ employees. Minimum 8.33% bonus."
+  },
+  {
+    "keyword": "Payment of Gratuity",
+    "aliases": ["retirement benefit", "long service reward", "gratuity rules"],
+    "section": "Payment of Gratuity Act, 1972",
+    "content": "Provides lump sum payment to employees after 5 years of continuous service.",
+    "help": "Applicable to establishments with 10+ employees. Tax-free up to ₹20 lakh."
+  },
+  {
+    "keyword": "Inter-State Migrant Workmen",
+    "aliases": ["migrant labour", "interstate workers", "labour mobility"],
+    "section": "Inter-State Migrant Workmen Act, 1979",
+    "content": "Protects rights of migrant workers employed outside their home state.",
+    "help": "Contractors must register and ensure wages, accommodation, and travel."
+  },
+  {
+    "keyword": "Sexual Harassment at Workplace",
+    "aliases": ["POSH Act", "women safety", "harassment complaint"],
+    "section": "Sexual Harassment of Women at Workplace Act, 2013",
+    "content": "Mandates safe working environment and internal complaints committee for women.",
+    "help": "All workplaces with 10+ employees must form ICC. Zero tolerance policy."
+  },
+  {
+    "keyword": "Weekly Holidays",
+    "aliases": ["day off", "rest day", "shop closure"],
+    "section": "Weekly Holidays Act, 1942",
+    "content": "Mandates one day off per week for persons employed in shops and establishments.",
+    "help": "Used to ensure rest and prevent overwork. Applies to retail and service sectors."
+  }
+  
+]
