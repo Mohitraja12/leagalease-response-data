@@ -7,46 +7,6 @@
     "help": "Victim's family or witnesses must file an FIR under Section 302 IPC. Police will investigate, arrest the accused, and submit charge sheet. If convicted, the criminal faces either life imprisonment (whole life) or death penalty. Bail is rarely granted in such cases."
   },
   {
-    "keyword": "Hello",
-    "aliases": ["hi", "hey", "greetings", "howdy", "sup", "yo"],
-    "content": "Hello! How can I assist you today? Feel free to ask me anything!"
-  },
-  {
-    "keyword": "How are you?",
-    "aliases": ["how's it going", "what's up", "how are you doing", "how are things"],
-    "content": "I'm just a program, but thanks for asking! I'm here to help with anything you need."
-  },
-  {
-    "keyword": "Goodbye",
-    "aliases": ["bye", "see you later", "take care", "goodbye now", "farewell"],
-    "content": "Goodbye! I hope I was able to assist you. Don’t hesitate to reach out if you need more help."
-  },
-  {
-    "keyword": "Thank you",
-    "aliases": ["thanks", "thanks a lot", "much appreciated", "thank you so much"],
-    "content": "You're welcome! It’s my pleasure to assist you. Let me know if you need anything else!"
-  },
-  {
-    "keyword": "What is AI?",
-    "aliases": ["what is artificial intelligence", "tell me about AI", "how does AI work", "explain AI"],
-    "content": "AI stands for Artificial Intelligence. It’s when machines are programmed to perform tasks that would normally require human intelligence, like learning, problem-solving, and understanding speech or images."
-  },
-  {
-    "keyword": "Tell me a joke",
-    "aliases": ["tell me something funny", "joke", "make me laugh", "say something funny"],
-    "content": "Sure! Why don’t skeletons fight each other? They don’t have the guts!"
-  },
-  {
-    "keyword": "What can you do?",
-    "aliases": ["what are your abilities", "what can I ask you", "what can you help with"],
-    "content": "I can help with a variety of things like answering general questions, providing information on a wide range of topics, and even telling jokes! Just ask away!"
-  },
-  {
-    "keyword": "Who created you?",
-    "aliases": ["who made you", "who is your creator", "who programmed you"],
-    "content": "I was created by a team of engineers and developers at OpenAI. They built me to assist you with all sorts of questions!"
-  },
-  {
     "keyword": "Theft",
     "aliases": ["stealing", "robbery", "pickpocket", "chain snatching", "mobile theft", "bike theft"],
     "section": "Section 378 IPC (definition), Section 379 IPC (punishment)",
@@ -2143,3 +2103,4 @@
   }
   
 ]
+
